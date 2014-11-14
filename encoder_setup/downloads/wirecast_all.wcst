@@ -1,0 +1,66 @@
+<document version="5" os="macosx" original_document_path="/Users/benbowler/Projects/chew-guide/r/encoder_setup/downloads/wirecast_all.wcst">
+	<open_windows>
+		<vamWindowGlass frame="60,67,1048,636" asset_icon_scale="0.5" selected_layer="1836282930" vam_main_splitter="0.65" />
+	</open_windows>
+	<vam_state master_audio_shown="1000" transition_0_unique_id="-- CUT --" transition_1_unique_id="-- SMOOTH --" transition_2_unique_id="side" />
+	<transition_data />
+	<chroma_key_data />
+	<advanced_output>
+		<output_list output_last_selected="6013247A-BCF5-473B-9853-BF826CADDDDF">
+			<output output_enabled="1" output_type="1" output_url="/Users/benbowler/Movies/MyStream.mp4" output_autoinfilename="1" output_branding="Record To Disk Brand" output_display_name="Record To Disk - MP4" output_display_group_name="Record To Disk" output_guid="A19B8345-DF1C-4CBA-856E-ACE58AF69380" unique_id="1" output_presetname="H.264 720p 16:9 (1280x720)" output_settings_complete="1" output_id="A7BA68D3-885E-4BD0-BA37-CF78B896E30D" />
+			<output output_enabled="1" output_type="2" output_transport="7" output_url="rtmp://stream-example.chew.tv:1935/live" output_location="example.00000000000000000000" output_branding="RTMP Server" output_display_name="Chew HD 720p" output_display_group_name="RTMP Flash Server" output_guid="5C90F623-1F0C-4180-B22B-DF5B999C297F" unique_id="2" output_presetname="H.264 720p 16:9 (1280x720)" impersonate_fme_2_5="0" flash_user_agent="Wirecast/FM 1.0" output_user_name="Chew HD 720p" output_settings_complete="1" output_id="CE9E256B-F221-46E1-BB6C-FDC04BDB3D17" />
+			<output output_enabled="0" output_type="2" output_transport="7" output_url="rtmp://stream-example.chew.tv:1935/live" output_location="example.00000000000000000000" output_branding="RTMP Server" output_display_name="Chew SD 480p" output_display_group_name="RTMP Flash Server" output_guid="15EF0445-4D7E-4433-A0B4-7D3165AB1D8F" unique_id="3" output_presetname="H.264 480p 16:9 (854x480)" impersonate_fme_2_5="0" flash_user_agent="Wirecast/FM 1.0" output_user_name="Chew SD 480p" output_settings_complete="0" output_id="F147ACF5-C718-4F26-906F-42B47BB4B931" />
+			<output output_enabled="0" output_type="2" output_transport="7" output_url="rtmp://stream-example.chew.tv:1935/live" output_location="example.00000000000000000000" output_branding="RTMP Server" output_display_name="Chew HD 1080p" output_display_group_name="RTMP Flash Server" output_guid="95C7D760-4EB1-46C3-AB15-91258087E967" unique_id="4" output_presetname="H.264 1080p 16:9 (1920x1080)" impersonate_fme_2_5="0" flash_user_agent="Wirecast/FM 1.0" output_user_name="Chew HD 1080p" output_settings_complete="0" output_id="6013247A-BCF5-473B-9853-BF826CADDDDF" />
+		</output_list>
+	</advanced_output>
+	<output_presets>
+		<preset output_presetname="H.264 720p 16:9 (1280x720)">
+			<movie format="Flash" output_system="">
+				<track mo_width="1280" mo_height="720" type="1986618479" colourspace="846624121" mo_enabled="1" codecname="x264" fps="30" compressed="1" timescale="3000" target_bit_rate="2025" profile="1835100526" limit_bit_rate="0" key_frame_rate="240" timecode_interval="30" timecode_on="0" FlashVideoDisableH264BFrames="0" x264_preset="2" x264_gpu_on="0" x264_commandline="" absolute_time_stamps="0" key_frame_aligned="0" strict_cbr="0" main_concept="1" />
+				<track type="1635083375" bps="16" channels="2" samplerate="44100" mo_enabled="1" codecname="MPEG-4 Audio" target_bit_rate="192" timescale="44100" />
+			</movie>
+		</preset>
+		<preset output_presetname="H.264 480p 16:9 (854x480)">
+			<movie format="Flash" output_system="">
+				<track mo_width="854" mo_height="480" type="1986618479" colourspace="846624121" mo_enabled="1" codecname="x264" fps="30" compressed="1" timescale="3000" target_bit_rate="1150" profile="1835100526" limit_bit_rate="0" key_frame_rate="240" timecode_interval="30" timecode_on="0" FlashVideoDisableH264BFrames="0" x264_preset="2" x264_gpu_on="0" x264_commandline="" absolute_time_stamps="0" key_frame_aligned="0" strict_cbr="0" main_concept="1" />
+				<track type="1635083375" bps="16" channels="2" samplerate="44100" mo_enabled="1" codecname="MPEG-4 Audio" target_bit_rate="128" timescale="44100" />
+			</movie>
+		</preset>
+		<preset output_presetname="H.264 1080p 16:9 (1920x1080)">
+			<movie format="Flash" output_system="">
+				<track mo_width="1920" mo_height="1080" type="1986618479" colourspace="846624121" mo_enabled="1" codecname="x264" fps="30" compressed="1" timescale="3000" target_bit_rate="4050" profile="1751738216" limit_bit_rate="0" key_frame_rate="240" timecode_interval="30" timecode_on="0" FlashVideoDisableH264BFrames="0" x264_preset="2" x264_gpu_on="0" x264_commandline="" absolute_time_stamps="0" key_frame_aligned="0" strict_cbr="0" main_concept="1" />
+				<track type="1635083375" bps="16" channels="2" samplerate="44100" mo_enabled="1" codecname="MPEG-4 Audio" target_bit_rate="192" timescale="44100" />
+			</movie>
+		</preset>
+	</output_presets>
+	<volume value="1" />
+	<auto_live />
+	<flip_flop />
+	<output_annotations />
+	<transition_duration />
+	<visual_style />
+	<single_output />
+	<media_directories />
+	<layer_names />
+	<layer_scales />
+	<layer_visible />
+	<sections />
+	<aspectRatio />
+	<shotsLiveWhenSaved />
+	<source_sdk_settings />
+	<assets>
+		<asset name="Blank Shot" unique_id="F882A966-1317-4C26-93A0-C3ED9C1A3164_shot" type="shot" media-type="9" vam_state="7" created_for_layer="5" blank_shot="1" />
+		<asset name="Blank Shot" unique_id="21CDE763-EC77-49BA-AEE5-35CBC5BF6998_shot" type="shot" media-type="9" vam_state="7" created_for_layer="1" blank_shot="1" />
+		<asset name="Blank Shot" unique_id="D78BFC96-CC89-4732-AD15-50362DEFD0DC_shot" type="shot" media-type="9" vam_state="5" created_for_layer="2" blank_shot="1" />
+		<asset name="Blank Shot" unique_id="A5D2DFED-55F7-47AE-8E8C-87ACEC10CFAB_shot" type="shot" media-type="9" vam_state="7" created_for_layer="3" blank_shot="1" />
+		<asset name="Blank Shot" unique_id="4E521DE0-C0AF-41D8-BB10-CC3F70F99EB4_shot" type="shot" media-type="9" vam_state="7" created_for_layer="4" blank_shot="1" />
+	</assets>
+	<xml_tag />
+	<shots>
+		<shot event_type="2" unique_id="F882A966-1317-4C26-93A0-C3ED9C1A3164_shot" />
+		<shot event_type="2" unique_id="21CDE763-EC77-49BA-AEE5-35CBC5BF6998_shot" />
+		<shot event_type="2" unique_id="D78BFC96-CC89-4732-AD15-50362DEFD0DC_shot" />
+		<shot event_type="2" unique_id="A5D2DFED-55F7-47AE-8E8C-87ACEC10CFAB_shot" />
+		<shot event_type="2" unique_id="4E521DE0-C0AF-41D8-BB10-CC3F70F99EB4_shot" />
+	</shots>
+</document>
