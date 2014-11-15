@@ -10,7 +10,7 @@ The Chew Guide will help you get started on the Chew platform - as well as helpi
 
 ## Open Source
 
-There are lots of sources of information on live streaming out there online. In most cases though it comes with some biases based on the platform. At Chew we've been live streaming events for years and think it's time to start sharing that knowledge online without limitations on the platform. With the exeption of pages that discribe Chew platform and API itself feel free to submit issues and pull requests for review!
+There are lots of sources of information on live streaming out there online. In most cases though it comes with some biases based on the platform. At Chew we've been live streaming events for years and think it's time to start sharing that knowledge online without limitations on the platform. With the exeption of pages that discribe the [Chew platform](http://chew.tv/guide/using_chew/getting_started) itself and [developer API](http://chew.tv/guide/developer_api/getting_started) itself feel free to submit issues and pull requests for review!
 
 The Chew Guide is licenced under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Licence](http://chew.tv/guide/LICENCE)
 
