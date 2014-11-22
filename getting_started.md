@@ -8,7 +8,7 @@ With the Chew platform, you can start live stream an event in minutes. You can u
 
 The Chew Guide will help you get started on the Chew platform - as well as helping you create your first event, choose your streaming kit and set up an encoder. To make things easier, everything in the Guide is split into 4 categories. You can read up on as little or as much as you need to get started on Chew!
 
-For questions and or support requests, don't forget we're always here to help! Just [get in touch](http://chew.tv/guide/help_and_support]).
+For questions and or support requests, don't forget we're always here to help! Just [get in touch](http://chew.tv/guide/help_and_support).
 
 ## Terms
 
