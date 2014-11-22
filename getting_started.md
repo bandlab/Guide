@@ -8,7 +8,7 @@ With the Chew platform, you can start live stream an event in minutes. You can u
 
 The Chew Guide will help you get started on the Chew platform - as well as helping you create your first event, choose your streaming kit and set up an encoder. To make things easier, everything in the Guide is split into 4 categories. You can read up on as little or as much as you need to get started on Chew!
 
-For questions and or support requests, don't forget we're always here to help! Just [get in touch](http://chew.tv/guide/help_and_support).
+For questions and/or support requests, we're always here to help! Just [get in touch](http://chew.tv/guide/help_and_support).
 
 ## Terms
 
@@ -30,11 +30,11 @@ This is a quick runthrough of the broadcast equipment you can use. That ranges f
 
 ## [Encoder Setup](http://chew.tv/guide/encoder_setup/getting_started)
 
-There are some great encoding applications and hardware on the market for live streaming. We cover some of the programmes we've used; ranging from the some of the free to some of the expensive software packages available!
+There are some great encoding applications and hardware on the market for live streaming. We cover some of the software we've used; ranging from the some of the free to some of the expensive packages available!
 
 ## [Using Chew](http://chew.tv/guide/using_chew/getting_started)
 
-You can use the Chew platform as the focal point for your live streams or simply create your Episodes and embed the Chew player elswhere. 
+You can use the Chew platform as the focal point for your live streams or simply create your Episodes and embed the Chew player on other websites. 
 
-This section explains how to create an Episode on the Chew platform and then what to do before and during your live stream - including how to share your Watch page or embed the Chew player elsewhere.
+This section explains how to create an Episode on the Chew platform and then what to do before and during your live stream - including how to share your Watch page or embed the Chew player.
 

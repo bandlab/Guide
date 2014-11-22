@@ -8,7 +8,7 @@ If you have a website or blog and want to embed the Chew player into it, we've m
 
 **We currently don't support SSL/HTTPS connections by default on all accounts.** If you attempt to embed a Chew player on an https page you may find the player is blank.
 
-To enable ssl on your account contact [Chew Support](support@chew.tv).
+To enable ssl on your account contact [Chew Support](mailto:support@chew.tv).
 
 ## Responsive Embedding
 

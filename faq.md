@@ -34,7 +34,7 @@ Please keep your browser and software updated to the latest version for the smoo
 
 ## Can I offer pay-per-view streams using Chew?
 
-Yes, but this is currently a private Alpha feature. Please [get in touch](http://chew.tv/guide/support) to find out more.
+Yes, but this is currently a private Alpha feature. Please [get in touch](http://chew.tv/guide/help_and_support) to find out more.
 
 ## Does Chew limit the number of viewers who can watch my streams?
 

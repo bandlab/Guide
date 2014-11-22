@@ -2,7 +2,7 @@
 
 Video cameras, audio recorders and computers have come a long way since the first days of video broadcasting. They now offer a highly professional live streaming setup to almost anyone on any budget. 
 
-There are too many different setups to cover in a single guide - and things will vary based on your available resources, the needs of your setup and the event itself (see [Event Setup](/r/event_setup/getting_started)). 
+There are too many different setups to cover in a single guide - and things will vary based on your available resources, the needs of your setup and the event itself (see [Event Setup](http://chew.tv//guide/event_setup/getting_started)). 
 
 In this section, we'll cover common equipment that you can base your research and buying decisions on.
 
@@ -27,6 +27,6 @@ What sits between your camera and your computer is often an overlooked part of t
 
 Once you're sorted with everything above, visual mixers are usually the next step. Giving you more power, more control and an increased number of camera inputs to stream, visual mixers help take your stream to the next level.
 
-## [Accessories for Mobile Streaming](http://chew.tv/guide/streaming_kit/accessories_for_mobile_streaming)
+## [Accessories for Mobile Streaming](http://chew.tv/guide/streaming_kit/accessories_for_mobile_live_streaming)
 
-At Chew, we like to push the cutting edge of live streaming technology. Often for our experimental events, we throw away the traditional broadcast kit and start from scratch streaming directly from mobile devices.
+At Chew, we like to push the cutting edge of live streaming technology. Often for our experimental events, we throw away the traditional broadcast kit and start from scratch by streaming directly from mobile devices.
