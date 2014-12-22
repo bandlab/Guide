@@ -14,4 +14,8 @@ There are lots of sources of information on live streaming out there online. In 
 
 The Chew Guide is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://chew.tv/guide/LICENCE)
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Chew Guide to Live Streaming</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://chew.tv" property="cc:attributionName" rel="cc:attributionURL">Chew</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/chewcode/Guide" rel="dct:source">https://github.com/chewcode/Guide</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">
+
+Chew Guide to Live Streaming</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://chew.tv" property="cc:attributionName" rel="cc:attributionURL">Chew</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />
+
+Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/chewcode/Guide" rel="dct:source">https://github.com/chewcode/Guide</a>.

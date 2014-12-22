@@ -22,9 +22,9 @@ Adobe offers a guide to using the Flash Media Live Encoder application on their 
 
 To make it as easy as possible starting out with Chew we've created a couple of example streaming profiles for you to download and open in Flash Media Live Encoder to get you started. Download one of these xml files, updated the streaming details from those on your Chew Go Live page and you're good to go!
 
-[Flash Media Live Encoder Profile - 720p HD at 1500kbps (fmle_1280_720_1500kbps.xml)](/r/encoder_setup/downloads/fmle_1280_720_1500kbps.xml)
+[Flash Media Live Encoder Profile - 720p HD at 1500kbps (fmle_1280_720_1500kbps.xml)](http://chew.tv//guide/encoder_setup/downloads/fmle_1280_720_1500kbps.xml)
 
-[Flash Media Live Encoder Profile - 1080p HD at 700kbps (fmle_1920_1080_2200kbps.xml)](/r/encoder_setup/downloads/fmle_1920_1080_2200kbps.xml)
+[Flash Media Live Encoder Profile - 1080p HD at 700kbps (fmle_1920_1080_2200kbps.xml)](http://chew.tv//guide/encoder_setup/downloads/fmle_1920_1080_2200kbps.xml)
 
 ## Setup Video Feeds
 

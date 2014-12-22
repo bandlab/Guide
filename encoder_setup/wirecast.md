@@ -25,7 +25,7 @@ You can watch a brief overview of setting up Wirecast below:
 
 To make it as easy as possible starting out with Chew we've created a couple of example streaming profiles for you to download and open in Wirecast to get you started. Download one of thes .wcst files, updated the streaming details from those on your Chew Go Live page then setup your cameras and audio and you're good to go!
 
-[Wirecast Profile - All Qualities](/r/encoder_setup/downloads/wirecast_all.wcst)
+[Wirecast Profile - All Qualities](http://chew.tv/guide/encoder_setup/downloads/wirecast_all.wcst)
 
 To select the quality to stream at, go into the Broadcast settings and select _only one_ quality which best matches the network speed at your location.
 

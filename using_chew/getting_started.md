@@ -4,9 +4,9 @@ The Chew platform is designed to be as simple as possible to use. There really i
 
 ## Register & Login
 
-If you haven't already done so, you'll need to [register](http://app.chew.tv/register) for a Chew account before you can create your first Show. 
+If you haven't already done so, you'll need to [register](http://chew.tv/register) for a Chew account before you can create your first Show. 
 
-If you have registered for a Chew account, simply [login](http://app.chew.tv/login)... 
+If you have registered for a Chew account, simply [login](http://chew.tv/login)... 
 
 ## [Creating an Show](http://chew.tv/guide/using_chew/creating_an_episode)
 

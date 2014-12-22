@@ -1,11 +1,11 @@
 # Cameras
 
-Choosing the camera(s) you're going to use is one of the most important decisions to make. Almost anyone can now afford to buy full HD cameras - they're that inexpensive. The main difference in ability will be how the camera reacts in low light performances (Key for events in [Bars or Clubs](/r/event_setup/bar_and_club_events)) or its ability to capture fast motion (such as [Arts and Performance Events](/r/event_setup/arts_and_performance_events)). In this section, we try to cover a few good cameras across a range of prices.
+Choosing the camera(s) you're going to use is one of the most important decisions to make. Almost anyone can now afford to buy full HD cameras - they're that inexpensive. The main difference in ability will be how the camera reacts in low light performances (Key for events in [Bars or Clubs](http://chew.tv/guide/event_setup/bar_and_club_events)) or its ability to capture fast motion (such as [Arts and Performance Events](http://chew.tv//guide/event_setup/arts_and_performance_events)). In this section, we try to cover a few good cameras across a range of prices.
 
 ## Terms
 
- - HDMI (High-Definition Multimedia Interface) - video output port often on consumer cameras
- - SDI (Serial digital interface) - often found on professional grade cameras.
+ - HDMI (High-Definition Multimedia Interface) - video output port often found on consumer cameras
+ - SDI (Serial digital interface) - often found on professional-level cameras.
 
 ## HDMI/SDI Output
 

@@ -1,6 +1,6 @@
 # Shows page
 
-Once you've successfully logged into your Chew account, you'll land on your [Shows](http://app.chew.tv/account/episodes) page. This is your account homepage and it acts as an archive for your Shows broadcast through Chew. 
+Once you've successfully logged into your Chew account, you'll land on your [Shows](http://chew.tv/account/episodes) page. This is your account homepage and it acts as an archive for your Shows broadcast through Chew. 
 
 From the Shows page, you'll be able to access the following via the links in the header: 
 

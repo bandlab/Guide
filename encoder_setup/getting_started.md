@@ -2,7 +2,7 @@
 
 Once you have planned your event and you've chosen your broadcast kit, the final step to streaming your first Show on Chew is your encoder. The encoder takes the live video and audio from your cameras and sends it to the Chew servers, where your viewers can then interact with it live.
 
-You can buy dedicated hardware encoders or use a computer, laptop or even [*Chew Go Live*](http://guide.chew.tv/chew-mobile-app) (our smartphone broadcast app), to stream.
+You can buy dedicated hardware encoders or use a computer, laptop or even [*Chew Go Live*](http://chew.tv/guide/encoder_setup/chew_mobile_app) (our smartphone broadcast app), to stream.
 
 ## Terms
 
