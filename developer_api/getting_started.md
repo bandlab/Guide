@@ -12,9 +12,9 @@ Click on the API version for detailed documentation.
 
 ### [API201407](http://chew.tv/guide/developer_api/API201407)
 
-## Episodes
+## Shows
 
-The Episode API allows you to create, get and delete episodes in the Chew platform. An episode equates to a single live streaming event with a single publish point, player and archive.
+The Show API allows you to create, get and delete episodes in the Chew platform. An episode equates to a single live streaming event with a single publish point, player and archive.
 
 
 ## Series

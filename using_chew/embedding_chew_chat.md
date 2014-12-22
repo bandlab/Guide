@@ -2,7 +2,7 @@
 
 #### ** Only available for Studio and Tour subscribers **
 
-If you have a website or blog and want to embed the Chew player into it, we've made the process super simple for you. You'll find your Episode's unique embed code on the Run page. From there, simply copy and paste the iframe embed code into the HTML view of your CMS or into the site code in your website. If you don't manage your website directly yourself then your content editor or website administrator will be able to do this for you.
+If you have a website or blog and want to embed the Chew player into it, we've made the process super simple for you. You'll find your Show's unique embed code on the Run page. From there, simply copy and paste the iframe embed code into the HTML view of your CMS or into the site code in your website. If you don't manage your website directly yourself then your content editor or website administrator will be able to do this for you.
 
 ## Embedding Over SSL/HTTPS
 

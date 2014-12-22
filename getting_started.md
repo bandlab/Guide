@@ -16,7 +16,7 @@ For questions and or support requests, don't forget we're always here to help! J
 
  - Encoder: a piece of software (or hardware) that encodes your raw video and audio into broadcastable live footage and sends it live to the Chew servers
  
- - Episode: a single broadcast event (i.e. one live stream)
+ - Show: a single broadcast event (i.e. one live stream)
  
  - Series: a collection of broadcast episodes (i.e. a number of streamed events).
 
@@ -34,7 +34,7 @@ There are some great encoding applications and hardware on the market for live s
 
 ## [Using Chew](http://chew.tv/guide/using_chew/getting_started)
 
-You can use the Chew platform as the focal point for your live streams or simply create your Episodes and embed the Chew player elswhere. 
+You can use the Chew platform as the focal point for your live streams or simply create your Shows and embed the Chew player elswhere. 
 
-This section explains how to create an Episode on the Chew platform and then what to do before and during your live stream - including how to share your Watch page or embed the Chew player elsewhere.
+This section explains how to create an Show on the Chew platform and then what to do before and during your live stream - including how to share your Watch page or embed the Chew player elsewhere.
 
