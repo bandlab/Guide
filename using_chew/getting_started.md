@@ -8,7 +8,7 @@ If you haven't already done so, you'll need to [register](http://chew.tv/registe
 
 If you have registered for a Chew account, simply [login](http://chew.tv/login)... 
 
-## [Creating an Show](http://chew.tv/guide/using_chew/creating_an_episode)
+## [Creating a Show](http://chew.tv/guide/using_chew/creating_an_episode)
 
 The core of the Chew platform is based around episodes. An episode is a single complete stream with both unique player and streaming details. Discover our simple process of creating an event with Chew.
 
