@@ -21,14 +21,6 @@ You can watch a brief overview of setting up Wirecast below:
 
 <iframe width="853" height="480" src="//www.youtube.com/embed/ITVX8Er_Klk?rel=0" frameborder="0" allowfullscreen></iframe>
 
-## Download a Chew Streaming Profile
-
-To make it as easy as possible starting out with Chew we've created a couple of example streaming profiles for you to download and open in Wirecast to get you started. Download one of thes .wcst files, updated the streaming details from those on your Chew Go Live page then setup your cameras and audio and you're good to go!
-
-[Wirecast Profile - All Qualities](http://chew.tv/guide/encoder_setup/downloads/wirecast_all.wcst)
-
-To select the quality to stream at, go into the Broadcast settings and select _only one_ quality which best matches the network speed at your location.
-
 ## Setup Video Feeds
 
 Wirecast supports an unlimited number of video inputs ranging from webcams (via USB or Firewire), DV/HDV, SDI cameras (via capture cards), as well as IP and web-based sources and Wireless devices. 
@@ -75,13 +67,3 @@ The main drawback of this is that over time it becomes harder for the encoder to
 However, you can control how often the encoder makes a new keyframe by setting the number of keyframes. The more keyframes you broadcast, the more bandwidth required and less your video is compressed, but higher keyframes result in better quality video. 
 
 **The keyframe interval should be set to as low as possible to help the user experience. In Wirecast, should be set to 4 seconds or less. This is 120 frames at 30fps. **
-
-## Stream Details
-
-Your stream details are unique to each of your events run through the Chew platform. These are available from the Encoder Setup section on your Event's Run page.
-
-1. Open Wirecast and click Output Settings
-2. Set your Output Destination to RMTP Server
-3. The server's address is shown on the Run page and looks like **rtmp://stream3.chew.tv:1935/live**
-4. The stream's name is as shown on the Run page and looks like: **example.d7100ee389849e2640f5cd29de7d5d4e**
-5. Click OK and save your settings.

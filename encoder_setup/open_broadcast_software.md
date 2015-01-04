@@ -46,14 +46,4 @@ You can watch a brief overview for the Windows version of OBS below:
 
 3. Save your input scenes and sources and click Preview Stream to check everything's working as you want it to
 
-4. Start broadcasting and check your stream's video and audio quality by clicking 'play' on your Run page player. You're good to go!
-
-## Stream Details
-
-Your stream details are unique to each of your events run through the Chew platform. These are available from the Encoder Setup section on your Event's Run page.
-
-1. Open OBS and click Settings
-2. Click Stream settings and pick 'Custom Streaming Server' from the dropdown
-3. The server's address is shown on the Run page and looks like **rtmp://stream3.chew.tv:1935/live**
-4. The stream's name is as shown on the Run page and looks like: **example.d7100ee389849e2640f5cd29de7d5d4e**
-5. Select OK and save your settings.
+4. Start broadcasting!

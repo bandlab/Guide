@@ -1,8 +1,12 @@
 # Encoder Setup
 
-Once you have planned your event and you've chosen your broadcast kit, the final step to streaming your first Episode on Chew is your encoder. The encoder takes the live video and audio from your cameras and sends it to the Chew servers, where your viewers can then interact with it live.
+_**Please note the Chew platform does not yet support the use of external cameras or non-USB audio sources**_
 
-You can buy dedicated hardware encoders or use a computer, laptop or even [*Chew Go Live*](http://chew.tv/guide/encoder_setup/chew_mobile_app) (our smartphone broadcast app), to stream.
+Once you have planned your Show and you've chosen your broadcast kit, the final step to streaming your first Show is your encoder. The encoder takes the live video and audio from your cameras and sends it to your broadcast servers, where your viewers can then interact with it live.
+
+Chew currently removes the need to use an encoder - with seamless browser-based streaming using your computer's webcam and microphone (or USB audio interface).
+
+You can buy dedicated hardware encoders or use a computer, laptop or even [*Chew Go Live*](http://chew.tv/guide/encoder_setup/chew_mobile_app) (our smartphone broadcast app), to live stream.
 
 ## Terms
 
@@ -21,7 +25,9 @@ Regardless of the encoder you're using make sure video and audio are streamed in
 
 ## Software Encoders
 
-If you're using one of the common (free or paid) encoders, we'll try to cover how to set them up to stream via Chew right here. 
+_**Please note the Chew platform does not yet support the use of external cameras or non-USB audio sources**_
+
+If you're using one of the common (free or paid) encoders, we'll try to cover how to set them up right here. 
 
 ## [Flash Media Live Encoder](http://chew.tv/guide/encoder_setup/flash_media_live_encoder)
 

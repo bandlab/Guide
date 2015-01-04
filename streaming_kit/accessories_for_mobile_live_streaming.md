@@ -1,6 +1,6 @@
 # Accessories for Mobile Live Streaming
 
-At Chew, we're big fans of cutting out the production grade equipment and streaming right from a mobile device like iPhone. Modern phones have HD cameras and enough power to encode and stream live video with no need for external kit. However, here's a few accessories we've found useful while streaming from mobile devices.
+At Chew, we're big fans of cutting out the production grade equipment and streaming right from a smartphone or other mobile device. Modern smartphones have HD cameras and enough power to encode and stream live video with no need for external kit. However, here's a few accessories we've found useful while streaming from mobile devices.
 
 ## External Audio/Microphones
 
@@ -12,7 +12,7 @@ Live video streaming drains device batteries super quick. Aim for the highest mi
 
 ## 4G or Mifi Routers
 
-If you haven't got a 4G-enabled phone - or you want to stream from non-internet enabled devices - then you may benefit from a 4G Mifi devce. A Mifi device is a portable hub that allows multiple devices to connect to it over wifi and share the speed of an internet connection. We've successfully run conference level live streams over 4G - it's awesome!
+If you haven't got a 4G-enabled phone - or you want to stream from non-internet enabled devices - then you may benefit from a 4G MiFi devce. A MiFi device is a portable hub that allows multiple devices to connect to it over WiFi and share the speed of an internet connection. We've successfully run conference level live streams over 4G - it's awesome!
 
 ## Tripod Mount
 

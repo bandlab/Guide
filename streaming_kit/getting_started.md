@@ -4,7 +4,11 @@ Video cameras, audio recorders and computers have come a long way since the firs
 
 There are too many different setups to cover in a single guide - and things will vary based on your available resources, the needs of your setup and the event itself (see [Event Setup](http://chew.tv//guide/event_setup/getting_started)). 
 
-In this section, we'll cover common equipment that you can base your research and buying decisions on.
+_**Please note the Chew platform does not yet support the use of external cameras or non-USB audio sources**_
+
+Chew currently removes the need to use an encoder - with seamless browser-based streaming using your computer's webcam and microphone (or USB audio interface). 
+
+In this section, we'll cover some common equipment that may help your research and buying decisions.
 
 
 ## [Cameras](http://chew.tv/guide/streaming_kit/cameras)
@@ -17,7 +21,7 @@ For music events, audio is often more important than video. Making sure you can 
 
 ## [Lighting](http://chew.tv/guide/streaming_kit/lighting)
 
-In [Event Setup](http://chew.tv/guide/event_setup/getting_started), we talk a lot about lighting. Here's our suggestions on buying lighting kit.
+In [Event Setup](http://chew.tv/guide/event_setup/getting_started), we talk a lot about lighting. Here's our suggestions on lighting kit.
 
 ## [Capture Cards](http://chew.tv/guide/streaming_kit/capture_cards)
 

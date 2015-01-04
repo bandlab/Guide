@@ -1,6 +1,6 @@
 # Streaming with Flash Media Live Encoder (FMLE)
 
-[Flash Media Live Encoder](http://www.adobe.com/uk/products/flash-media-encoder.html) is "a media encoder that streams audio and video in real time to Adobe Media Server software or Flash Video Streaming Service (FVSS). This software can enable the broadcast of live events ... around the clock."
+[Flash Media Live Encoder](http://www.adobe.com/uk/products/flash-media-encoder.html) is "a media encoder that streams audio and video in real time to Adobe Media Server software or Flash Video Streaming Service (FVSS). This software can enable the broadcast of live events around the clock."
 
 If you're just getting started with live streaming using a single camera, Flash Media Encoder is a great entry point. It's both robust and free!
 
@@ -17,14 +17,6 @@ If you're just getting started with live streaming using a single camera, Flash 
 Adobe offers a guide to using the Flash Media Live Encoder application on their site:
 
 - [Windows and Mac](http://www.adobe.com/devnet/adobe-media-server/articles/webcasting_fme.html#articlecontentAdobe_numberedheader_1)
-
-## Download a Chew Streaming Profile
-
-To make it as easy as possible starting out with Chew we've created a couple of example streaming profiles for you to download and open in Flash Media Live Encoder to get you started. Download one of these xml files, updated the streaming details from those on your Chew Go Live page and you're good to go!
-
-[Flash Media Live Encoder Profile - 720p HD at 1500kbps (fmle_1280_720_1500kbps.xml)](http://chew.tv//guide/encoder_setup/downloads/fmle_1280_720_1500kbps.xml)
-
-[Flash Media Live Encoder Profile - 1080p HD at 700kbps (fmle_1920_1080_2200kbps.xml)](http://chew.tv//guide/encoder_setup/downloads/fmle_1920_1080_2200kbps.xml)
 
 ## Setup Video Feeds
 
@@ -51,13 +43,3 @@ A video is a sequence of images and each image is called a frame. To compress vi
 A short keyframe interval leads to smoother switching between qualities for the user watching your stream.
 
 **The keyframe interval should be set to as low as possible to help the user experience. In Flash Media Live Encoder is should be set to 4 seconds or less. This is 120 frames at 30fps. **
-
-## Stream Details
-
-Your stream details are unique to each of your events run through the Chew platform. These are available from the Encoder Setup section on your Event's Run page.
-
-1. Open Flash Media Encoder and select Output Settings
-2. Set your Output Destination to RMTP Server
-3. The server's address is shown on the Run page and looks like **rtmp://stream3.chew.tv:1935/live**
-4. The stream's name is as shown on the Run page and looks like: **example.d7100ee389849e2640f5cd29de7d5d4e**
-5. Select OK and save your settings.

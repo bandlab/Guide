@@ -8,7 +8,7 @@ Blackmagic Design offer a range of capture cards that connect to a computer via 
 
 [View Blackmagic Intensity Products](https://www.blackmagicdesign.com/uk/products/intensity)
 
-On the lowest end of the price scale, their Ultrastudio Mini *Recorder* can be used with [Wirecast](http://chew.tv/guide/encoder_setup/wirecast), it supports both HDMI and SDI inputs and is inexpensive - and has proven itself in many of our live streams.
+On the lowest end of the price scale, their Ultrastudio Mini *Recorder* can be used with [Wirecast](http://chew.tv/guide/encoder_setup/wirecast). The Ultrastudio Mini *Recorder* supports both HDMI and SDI inputs and is relatively inexpensive. It's a piece of kit that's proven itself in many of our live streams!
 
 [View Blackmagic Ultrastudio Products](https://www.blackmagicdesign.com/uk/products/ultrastudiothunderbolt)
 
