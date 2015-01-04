@@ -14,9 +14,7 @@ For questions and/ or support requests, we're here to help! Just [get in touch](
 
  - Streaming: the broadcast of live video and audio content over the Internet
 
- - Encoder: a piece of software (or hardware) that encodes your raw video and audio into broadcastable live footage and sends it to the Chew servers
- 
- - Show: a single live stream.
+ - Encoder: a piece of software (or hardware) that encodes your raw video and audio into broadcastable live footage and sends it to the Chew servers.
 
 ## [Event Setup](http://chew.tv/guide/event_setup/getting_started)
 
@@ -36,7 +34,6 @@ There are some great encoding applications and hardware on the market for live s
 
 ## [Using Chew](http://chew.tv/guide/using_chew/getting_started)
 
-You can use the Chew platform as the focal point for your live streams or simply create your Episodes and embed the Chew player on other websites. 
+You can use the Chew platform as the focal point for your live streams or simply create your Shows and embed the Chew player on other websites. 
 
 This section explains how to create a Show on the Chew platform and then what to do before and during your live stream - including how to share your Watch page or embed the Chew player.
-
