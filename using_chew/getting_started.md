@@ -20,6 +20,6 @@ All Shows on Chew are built around the Watch page. Find out what to do once you'
 
 ## [Embedding the Chew Player](http://chew.tv/guide/using_chew/embedding_a_chew_player)
 
-#### ** Only available for users with Chew Pro accounts **
+####_**Please note embedding the Chew player on external websites is not yet available**_ 
 
 Find out how to embed the Chew player on external websites!
