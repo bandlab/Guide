@@ -16,7 +16,7 @@ The core of the Chew platform is based around Shows. A Show is a single complete
 
 ## [Updating your Audio Input](http://chew.tv/guide/using_chew/updating_your_audio_interface_mac_osx)
 
-For Mac OSX users, you may need to follow these steps to update your audio output to either an audio desk or controller input before Going Live. Follow these three simple steps and you'll be good to go!
+For Mac OSX users, you may need to follow these steps to update your audio input to either an audio desk or controller input before Going Live. Follow these three simple steps and you'll be good to go!
 
 ## [Sharing the Watch Page](http://chew.tv/guide/using_chew/sharing_the_watch_page)
 

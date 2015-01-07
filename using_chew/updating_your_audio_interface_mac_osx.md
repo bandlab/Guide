@@ -1,6 +1,6 @@
 # Updating your Audio Interface on Mac OSX
 
-For Mac OSX users, you'll need to follow these steps to update your audio output to either an audio desk or controller input, connect the device and follow these steps.
+For Mac OSX users, you'll need to follow these steps to update your audio interface to either an audio desk or controller input, connect the device and follow these steps.
 
 ## 1. Open System Preferences
 
@@ -23,7 +23,7 @@ When System Preferences opens, select the **Sound** option.
 
 In the Sounds setting pane: 
 
-- Select the Input tab 
-- Then choose your audio source. This will be the name of your audio interface (e.g. _Focusrite Scarlett 2i2_) or controller (e.g. _Pioneer DDJSXW_) or, in some cases, simply **USB Audio Codec**.
+- Select the **Input** tab 
+- Then choose your audio source. This will be the name of your audio interface (e.g. _Focusrite Scarlett 2i2_), controller (e.g. _Pioneer DDJSXW_) or, in some cases, simply **USB Audio Codec**.
 
 ![Image of Yaktocat](https://raw.githubusercontent.com/chewcode/Guide/master/using_chew/changing_your_audio_interface_mac_step_3.png)
