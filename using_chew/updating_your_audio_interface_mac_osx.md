@@ -1,6 +1,6 @@
-# Updating your Audio Interface on Mac OSX
+# Updating your Audio Input on Mac OSX
 
-For Mac OSX users, you'll need to follow these steps to update your audio interface to either an audio desk or controller input, connect the device and follow these steps.
+For Mac OSX users, you'll need to follow these steps to update your audio input to either an audio desk or controller input, connect the device and follow these steps.
 
 ## 1. Open System Preferences
 
