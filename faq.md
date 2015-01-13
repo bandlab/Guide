@@ -44,15 +44,15 @@ Please see the [Chew Terms](http://chew.tv/guide/terms) for more.
 
 ## How many cameras should I use for my stream?
 
-_**Please note the Chew platform does not yet support the use of external cameras or non-USB audio sources**_
-
 Obviously for a video stream, you'll need at least one camera. If you want to, you can broadcast an audio-only stream through the Chew platform. Be inventive! 
 
 Generally, the number of cameras you can stream from is limited by the encoder you're using, your computer's processing power and your hardware.
 
 ## What encoder should I use?
 
-_**Please note the Chew platform does not yet support the use of external cameras or non-USB audio sources**_
+Chew is built to work with most encoders available on the market. We cater to users with free encoders like Flash Media Live Encoder, through to users with professional broadcast-level Wirecast licenses.
+
+If you come across any issues connecting an encoder to the Chew platform, [please get in touch](mailto:support@chew.tv)!
 
 ## What type of connection should I use to stream?
 
