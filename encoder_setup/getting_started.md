@@ -23,8 +23,6 @@ Regardless of the encoder you're using make sure video and audio are streamed in
 
 ## Software Encoders
 
-_**Please note the Chew platform does not yet support the use of external cameras or non-USB audio sources**_
-
 If you're using one of the common (free or paid) encoders, we'll try to cover how to set them up right here. 
 
 ## [Flash Media Live Encoder](http://chew.tv/guide/encoder_setup/flash_media_live_encoder)
