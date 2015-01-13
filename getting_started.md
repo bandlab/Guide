@@ -28,12 +28,8 @@ We've found the key to a great live event comes from the event planning and setu
 
 ## [Streaming Kit](http://chew.tv/guide/streaming_kit/getting_started)
 
-_**Please note the Chew platform does not yet support the use of external cameras or non-USB audio sources**_
-
 This is a quick runthrough of the broadcast equipment you can use to live stream. This kit ranges from streaming using a smartphone to kitting out a broadcast-level production studio. We cover common kit setups, including single and multiple camera and permanent venue fit-outs.
 
 ## [Encoder Setup](http://chew.tv/guide/encoder_setup/getting_started)
-
-_**Please note the Chew platform does not yet support the use of external cameras or non-USB audio sources**_
 
 There are some great encoding applications and hardware on the market for live streaming. We cover some of the software we've used; ranging from the some of the free to some of the expensive packages available!
