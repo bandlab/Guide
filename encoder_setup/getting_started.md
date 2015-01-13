@@ -1,7 +1,5 @@
 # Encoder Setup
 
-_**Please note the Chew platform does not yet support the use of external cameras or non-USB audio sources**_
-
 Once you have planned your Show and you've chosen your broadcast kit, the final step to streaming your first Show is your encoder. The encoder takes the live video and audio from your cameras and sends it to your broadcast servers, where your viewers can then interact with it live.
 
 Chew currently removes the need to use an encoder - with seamless browser-based streaming using your computer's webcam and microphone (or USB audio interface).
