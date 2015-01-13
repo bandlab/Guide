@@ -4,8 +4,6 @@ Video cameras, audio recorders and computers have come a long way since the firs
 
 There are too many different setups to cover in a single guide - and things will vary based on your available resources, the needs of your setup and the event itself (see [Event Setup](http://chew.tv//guide/event_setup/getting_started)). 
 
-_**Please note the Chew platform does not yet support the use of external cameras or non-USB audio sources**_
-
 Chew currently removes the need to use an encoder - with seamless browser-based streaming using your computer's webcam and microphone (or USB audio interface). 
 
 In this section, we'll cover some common equipment that may help your research and buying decisions.
