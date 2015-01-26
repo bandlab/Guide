@@ -18,6 +18,12 @@ Matrox offer a comparable range of external Thunderbolt and internal PCIe cards 
 
 [View Matrox Products](http://www.matrox.com/video/en/products/)
 
+## Magewell
+
+We've recently discovered Magewell's HDMI to USB 3.0 capture cards. They're relatively low cost, extremely compatible and seem amazingly simple to use. Thanks to [Rasper](http://chew.tv/rasper) for the tip!
+
+[View Magewell Products](http://www.magewell.com/hardware/dongles/xi100dusb-hdmi/xi100dusb-hdmi_features.html?lang=en)
+
 ## HDMI vs SDI and Converters
 
 When deciding between HDMI and SDI connectors for you cameras, it's important to note the key difference in the connectors (other than durability) is the fact that HDMI signal can only run a short distance (often less than 10m). Signal over SDI runs much longer. 
