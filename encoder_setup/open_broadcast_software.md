@@ -32,18 +32,31 @@ You can watch a brief overview for the Windows version of OBS below:
 
 <iframe width="853" height="480" src="//www.youtube.com/embed/y-L5zhhVuSc?rel=0" frameborder="0" allowfullscreen></iframe>
 
-1. Create a scene, by right click in the white box below Scenes and click 'Add Scene'. Give it an appropriate name and you're ready to set up your sources. You can right-click the scene in this list to change its position for organisation purposes as well as setting a hotkey for it.
+1. Create a scene, by right click in the white box below Scenes and click **Add Scene**. Give it an appropriate name and you're ready to set up your Sources.
 
-2. Add your video and audio sources by right-click in the Sources box and select which type to add. Source types [include](http://jp9000.github.io/OBS/general/overview.html):
-	
-	- Window or monitor capture
+2. Add your video and audio sources by right clicking in the **Sources** box and selecting the type of source you'd like to add. If you're using a webcam and USB audio, this would be adding:
 
-	- Image or Image slideshow
+	- Webcam (either USB or laptop webcam) - this will be called **Video Capture Device**
+	- Audio input (called **Audio Input** Capture*)
 
-  	- Text
+3. Save your input scenes and sources
 
-	- Video Capture Device
+4. Click on **Settings** (bottom right)
 
-3. Save your input scenes and sources and click Preview Stream to check everything's working as you want it to
+5. Click on **Stream**
 
-4. Start broadcasting!
+6. Select **Custom Streaming Server** from the dropdown
+
+7. Go to Chew and create (if you haven't done already) a new Show
+
+8. Click on the **Advanced** button
+
+9. Copy and paste your **Stream URL** and **Stream Name** details from the Advanced tab into the same fields in the OBS settings panel
+
+10. Click on **Output**
+
+11. Change **Video Bitrate** to the 900 option. This sets your video quality. If you have an upload speed higher than 1MBPS at [speedtest.net](http://speedtest.net) you can set this higher the Video Bitrate option to higher.
+
+12. Click **OK**
+
+13. Click **Start Streaming**. Congratulations, you're streaming live on Chew!
