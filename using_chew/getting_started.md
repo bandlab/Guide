@@ -22,6 +22,6 @@ For Mac OSX users, you may need to follow these steps to update your audio input
 
 All Shows on Chew are built around the Watch page. Find out what to do once you've created a Show.
 
-## [Embedding the Chew Player](http://chew.tv/guide/using_chew/embedding_a_chew_player)
+## [Embedding the Chew Player](http://chew.tv/guide/using_chew/embedding_the_chew_player)
 
 Find out how to embed the Chew player on external websites!
