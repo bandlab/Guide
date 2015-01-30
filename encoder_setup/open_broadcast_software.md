@@ -37,7 +37,7 @@ You can watch a brief overview for the Windows version of OBS below:
 2. Add your video and audio sources by right clicking in the **Sources** box and selecting the type of source you'd like to add. If you're using a webcam and USB audio, this would be adding:
 
 	- Webcam (either USB or laptop webcam) - this will be called **Video Capture Device**
-	- Audio input (called **Audio Input** Capture*)
+	- Audio input (called **Audio Input Capture**)
 
 3. Save your input scenes and sources
 
