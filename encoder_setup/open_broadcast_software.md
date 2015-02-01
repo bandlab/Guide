@@ -55,7 +55,7 @@ You can watch a brief overview for the Windows version of OBS below:
 
 10. Click on **Output**
 
-11. Change **Video Bitrate** to the 900 option. This sets your video quality. If you have an upload speed higher than 1MBPS at [speedtest.net](http://speedtest.net) you can set this higher the Video Bitrate option to higher.
+11. Change **Video Bitrate** to the 900 option. This sets your video quality. If you have an upload speed higher than 1MBPS at [speedtest.net](http://speedtest.net) you can set the Video Bitrate option to higher. As a rule of thumb, you always want to be broadcasting a video bitrate and audio bitrate 20% lower than your upload speed. So, for example, if you have a 1MBPS upload, you want to broadcast video and audio bitrates that total 800 or so (audio bitrate of 192 and video of around 600). 
 
 12. Click **OK**
 
