@@ -16,4 +16,4 @@ By signing up for a Chew Producer account or otherwise using the Chew Service to
 
 By using the Chew Service, you expressly consent to the information handling practices described in this notice. This Privacy Policy is incorporated into and is subject to the Chew Service Terms of Use. Your use of the Chew Service and any personal information you provide through the Chew Service are subject at all times to this Privacy Policy and the Terms of Use.
 
-[Read more](http://chew.tv/guide/privacypolicy).
+[Read more](http://chew.tv/guide/privacy_policy).
