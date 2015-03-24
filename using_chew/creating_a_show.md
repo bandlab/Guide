@@ -1,9 +1,9 @@
 
 # Shows page
 
-Once you've successfully logged into your Chew account, you'll land on your [Shows](http://chew.tv/account/shows) page. This is your account homepage and it acts as an archive for your Shows broadcast through Chew. 
+Once you've logged into your Chew account, you'll land on your [Shows](http://chew.tv/account/shows) page. This is your account homepage and it acts as an archive for all the Shows you've broadcast through Chew. 
 
-From the Shows page, you'll be able to access the following via the links in the header: 
+From this Shows page, you'll be able to access your (via the links in the header): 
 
 - Account settings
 	- Where you can update your account details
@@ -14,15 +14,23 @@ From the Shows page, you'll be able to access the following via the links in the
 
 # Go Live
 
-If you've clicked on the 'Go Live' or 'New Show' links, Chew will create a new Show for you. The Run page is private to you and gives you each Show's unique stream information. 
+If you've clicked on the 'Go Live' or 'New Show' links, Chew will set up a new Show for you to broadcast from. 
 
-Once you've allowed camera and microphone permissions, you're ready to Go Live and start streaming! 
+We cannot use your camera and microphone / line feed without your permission. Once you've allowed Chew access to these, you're ready to Go Live and start streaming your set! 
 
--	You can, if you want to, give your Show a name (or title) and set a start time if you're creating a future Show. If your Show is created for a date in the future, the Chew player will display a countdown timer.
-- You can also upload a flyer image. The flyer image acts as a cover photo on both your Watch page and Chew player (before your Show starts). If you don't upload a flyer image, Chew will use to the platform default. 
-- Lastly, you can give your Show a description. This description, if you use one, is used on the Watch page and in the default share text people see when your Watch link is shared. 
+- You can, give your Show a name (or title) or use our auto created one.
+	- The name of the show is used in the unique URL, so keep your names short and catchy to maximise sharability. 
+- Set a start time, great for setting everything up ready for future Show. all shows dated in the future get an automatic count down timer to help you build suspense for your event, and give something for people to watch to log in to watch you early.
+- You can also upload a flyer image to your show page. The flyer image acts as a cover photo on both your Watch page and your dedicated Chew player (before your Show starts). If you don't upload a flyer image, Chew will use to the Chew logo default. 
+- Lastly, you can give your Show a description. This description is used on the Watch page and in the default share text that appears when they share your Watch link. 
 
-From the Run page, you can view your Show's player (where you can preview what your viewers will see) and the Watch page URL. You are also able to engage with your viewers in the Chew Chat box without leaving the Show's Run page. 
+## Run page
+
+The Run page is private to you. Run pages give you each Show's unique stream information. You can see how many fans are watching right now and how fast your upload speed is. 
+
+From the Run page, you can also view your Show's player (where you can preview what your viewers will see) and the Watch page URL. 
+
+You can engage with your viewers in the Chew Chat box without leaving the Show's Run page. 
 
 # Watch Page
 
