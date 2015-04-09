@@ -40,7 +40,7 @@ Chew is unlike other live streaming platforms, as we're built with rightsholders
 
 We do, however, take a very dim view of users going out of their way to violate applicable laws. Chew will terminate any account found to be actively breaching applicable laws. 
 
-Please see the [Chew Terms](http://chew.tv/guide/terms) for more.
+Please see the [Chew Terms](http://chew.tv/guide/terms/getting_started) for more.
 
 ## How many cameras should I use for my stream?
 
