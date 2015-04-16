@@ -68,7 +68,6 @@ You can watch a brief overview for the Windows version of OBS below:
 One of our awesome power users has put together a tutorial for getting to grips with OBS on PC. [Riglow](http://chew.tv/riglow), you're awesome!
 
 <iframe src="http://chew.tv/embed/riglow/advanced-broadcast-settings-for-open-broadcast-software" width="853" height="480" scrolling="no"></iframe>
-
 <br />
 And a huge thank you to [DJ Dead Air](http://twitter.com/djdeadair) for his help in putting the below guide together. We owe you one dude! 
 
