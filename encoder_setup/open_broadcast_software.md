@@ -65,6 +65,10 @@ You can watch a brief overview for the Windows version of OBS below:
 
 # PC Users
 
+One of our awesome power users has put together a tutorial for getting to grips with OBS on PC. [Riglow](http://chew.tv/riglow), you're awesome!
+
+<iframe src="http://chew.tv/embed/riglow/advanced-broadcast-settings-for-open-broadcast-software" ></iframe>
+
 A huge thank you to [DJ Dead Air](http://twitter.com/djdeadair) for his help in putting the below guide together. We owe you one dude! 
 
 1. Create a scene, by right click in the white box below Scenes and click **Add Scene**. Give it an appropriate name and you're ready to set up your Sources.
