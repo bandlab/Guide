@@ -3,7 +3,7 @@ Last Updated: March 2015
 
 Chew understands that privacy is important. This Privacy Policy applies to any and all services, applications, platforms, websites, or other affiliated ventures offered by Chew and sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  
 
-Chew Live Ltd (“Chew”, “us”, “we” and “our”) offers the Chew Service and we are the data controller of the personal data you provide to us or we have access to. Chew Live Ltd is a limited liability company. We are incorporated under the laws of England and Wales with registered number 09260256 and our registered address is 86-90 Paul Street, London, EC2A 4NE.
+Chew Live Ltd (“**Chew**”, “**us**”, “**we**” and “**our**”) offers the Chew Service and we are the data controller of the personal data you provide to us or we have access to. Chew Live Ltd is a limited liability company. We are incorporated under the laws of England and Wales with registered number 09260256 and our registered address is 86-90 Paul Street, London, EC2A 4NE.
 
 By using the Chew Service, you are expressly accepting and consenting to the practices described in this Privacy Policy. This Privacy Policy is incorporated into and is subject to the Chew Service [Terms of Use](http://chew.tv/guide/terms/general). Your use of the Chew Service and any personal information you provide through the Chew Service are subject at all times to this Privacy Policy and the Terms of Use. Defined terms used in this Privacy Policy and not defined in this Privacy Policy shall have the meanings given to them in the Terms of Use.
 
