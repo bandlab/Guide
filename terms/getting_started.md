@@ -1,5 +1,3 @@
-# Getting Started
-
 ## [Chew Terms of Use](http://chew.tv/guide/terms/general)
 
 The following Terms of Use (the “**Terms**”) between you (“you” and “your”, or collectively with other users, “**Users**”) and us, Chew Live Ltd (“**Chew**”, “**we**”, “**us**” and “**our**”) governs your use of the Chew website (located at [http://chew.tv](http://chew.tv)) and other websites, apps, players, software, services and networks owned or controlled by Chew that allow for the distribution and reception of video, audio, and other content (the “**Chew Service**”). If you do not understand or do not accept any part of these Terms, then you should not use the Chew Service. You understand and agree that by registering an account with us, or by using the Chew Service, you agree to be legally bound by these Terms.
