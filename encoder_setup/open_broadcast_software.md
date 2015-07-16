@@ -9,22 +9,9 @@ There are two versions available:
 
 OBS is completely free and comes with a range of supported features, including an API on which a number of publicly available (and free!) [plugins](https://obsproject.com/forum/list/plugins.26/) have been created.
 
-OBS' supported features include:
-
-- Encoding using H264 (x264) and AAC
-- Support for Intel Quick Sync Video (QSV) and NVENC
-- Unlimited number of scenes and sources
-- Live RTMP streaming to Twitch, YouTube, DailyMotion, Hitbox and more
-- File output to MP4 or FLV
-- GPU-based game capture for high performance game streaming
-- DirectShow capture device support (webcams, capture cards, etc)
-- Windows 8 high speed monitor capture support
-- Bilinear or lanczos3 resampling.
-
 The developers behind OBS have fairly in-depth [Help](http://jp9000.github.io/OBS) and [FAQ](http://jp9000.github.io/OBS/general/faq.html) sections on their website. 
 
 You can also find their Support page [here](http://jp9000.github.io/OBS/general/support.html).
-
 
 ## Streaming through OBS Overview
 
@@ -107,3 +94,21 @@ And a huge thank you to [DJ Dead Air](http://twitter.com/djdeadair) for his help
 16. **YOU MUST RESTART OBS FOR SETTINGS TO APPLY**
 
 17. Click **Start Streaming** then, once your signal indicator has gone green (i.e. Chew is receiving your broadcast signal from OBS), click the **Go Live** button in the Advanced tab. Congratulations, you're streaming live on Chew!
+
+## Traktor Users
+
+Big love to [Battleborn](http://chew.tv/battleborn) for putting together this runthrough of Edcast, OBS and Traktor on PC together! You can read the steps Battleborn went through to get Traktor audio below.  
+
+<iframe src="http://chew.tv/embed/battleborn/chewtv-and-traktor-s4-obs-setup-using-edcast" width="853" height="480" scrolling="no"></iframe>
+<br />
+1. Enable Stereo Mix
+
+2. Setup OBS as Source: Built-in Card / Mic: Default
+
+3. Setup [EdCast Standalone](https://www.fastserv.com/kb/article/edcast_standalone_-_stream_live_audio_to_icecast_or_shoutcast) for Stereo Mix
+
+4. Double check speakers for sound
+
+5. Open Traktor, set Audio to Built-in Card
+
+6. Click **Start Streaming** then, once your signal indicator has gone green (i.e. Chew is receiving your broadcast signal from OBS), click the **Go Live** button in the Advanced tab. Congratulations, you're streaming live on Chew!
