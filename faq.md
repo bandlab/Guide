@@ -56,7 +56,7 @@ If you come across any issues connecting an encoder to the Chew platform, [pleas
 
 ## What type of connection should I use to stream?
 
-While WiFi is often as fast as a wired connection, a wired connection is generally much more reliable. Where possible, we recommend using a wired cnnection to stream through Chew. We also suggest testing your connection strength before you Go Live; using a tool like [Speedtest.net](http://speedtest.net/).
+While WiFi is often as fast as a wired connection, a wired connection is generally much more reliable. Where possible, we recommend using a wired connection to stream through Chew. We also suggest testing your connection strength before you Go Live; using a tool like [Speedtest.net](http://speedtest.net/).
 
 On mobile, WiFi streaming is recommended over 3G. However, if you have a 4G-enabled phone and strong, consistent signal then 4G may be better than using a shared WiFi connection. Again, check the signal strength before you start streaming, perhaps using the [Speedtest.net app](http://www.speedtest.net/mobile/).
 
