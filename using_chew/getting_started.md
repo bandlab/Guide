@@ -25,3 +25,7 @@ All Shows on Chew are built around the Watch page. Find out what to do once you'
 ## [Embedding the Chew Player](http://chew.tv/guide/using_chew/embedding_the_chew_player)
 
 Find out how to embed the Chew player on external websites!
+
+## [Building Your Audience](http://chew.tv/guide/using_chew/building_your_audience_on_chew)
+
+Want to know how to use Chew to build and engage an audience? Here's a few helpful tips to get you started!
