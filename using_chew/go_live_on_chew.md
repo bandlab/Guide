@@ -25,4 +25,4 @@ Once your viewers have clicked your Watch page URL, they'll be able to view your
 
 # Setting up your encoder
 
-Once you've created your Show, you'll need to setup your encoder to Go Live. [*Click here to find out how*](http://chew.tv/guide/encoder_setup/open_broadcast_software.md). 
+Once you've created your Show, you'll need to setup your encoder to Go Live. [_Click here to find out how_](http://chew.tv/guide/encoder_setup/open_broadcast_software.md). 
