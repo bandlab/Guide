@@ -1,54 +1,40 @@
 # Streaming with Open Broadcaster Software
 
-[Open Broadcaster Software](https://obsproject.com/) is free and open source software for video recording and live streaming, with source code publicly available on [github](https://github.com/jp9000/OBS). 
+[Open Broadcaster Software](https://obsproject.com/) is free and open source software for video recording and live streaming. If you're so inclined, you can find its source code on [github](https://github.com/jp9000/OBS). 
 
-There are two versions available: 
+There are two free versions available: 
 
-- OBS for Windows 7/8 (download [here](https://obsproject.com/download#obs1_dl))
-- OBS Multiplatform for Mac with Linux and Windows support coming soon (download [here](https://obsproject.com/download#obs2_dl))
+- OBS for [PC]](https://obsproject.com/download))
+- OBS for [Mac](https://obsproject.com/download#mac)
 
-OBS is completely free and comes with a range of supported features, including an API on which a number of publicly available (and free!) [plugins](https://obsproject.com/forum/list/plugins.26/) have been created.
-
-The developers behind OBS have fairly in-depth [Help](http://jp9000.github.io/OBS) and [FAQ](http://jp9000.github.io/OBS/general/faq.html) sections on their website. 
-
-You can also find their Support page [here](http://jp9000.github.io/OBS/general/support.html).
+OBS has a fairly in-depth [Help](http://jp9000.github.io/OBS), [Support](http://jp9000.github.io/OBS/general/support.html) and [FAQ](http://jp9000.github.io/OBS/general/faq.html) sections on their website - but we'll condense what you need to know below.
 
 ## Streaming through OBS Overview
 
-You can watch a brief overview for the Windows version of OBS below:
-
-<iframe width="853" height="480" src="//www.youtube.com/embed/y-L5zhhVuSc?rel=0" frameborder="0" allowfullscreen></iframe>
-
 # Mac Users
 
-1. Create a scene, by right click in the white box below Scenes and click **Add Scene**. Give it an appropriate name and you're ready to set up your Sources.
+1. [Download](https://obsproject.com/download#mac), install and open OBS
 
-2. Add your video and audio sources by right clicking in the **Sources** box and selecting the type of source you'd like to add. If you're using a webcam and USB audio, this would be adding:
+2. Click the + icon below 'Scenes' to create a scene
+
+3. Click the + icon below 'Sources' to add your video and audio sources. If you're using a webcam and USB audio, this would be adding:
 
 	- Webcam (either USB or laptop webcam) - this will be called **Video Capture Device**
 	- Audio input (called **Audio Input Capture**)
 
 3. Save your input scenes and sources
 
-4. Click on **Settings** (bottom right)
+4. Open **Settings** and then **Stream**
 
-5. Click on **Stream**
+6. Select **Custom Streaming Server** from the dropdown menu
 
-6. Select **Custom Streaming Server** from the dropdown
+7. Go to Chew and create (if you haven't done already) [a new Show](http://chew.tv/guide/using_chew/go_live_on_chew)
 
-7. Go to Chew and create (if you haven't done already) a new Show
+8. Copy and paste the **Server URL** and **Stream Key** into OBS
 
-8. Click on the **Advanced** button
+9. Click **OK**
 
-9. Copy and paste your **Stream URL** and **Stream Name** details from the Advanced tab into the same fields in the OBS settings panel
-
-10. Click on **Output**
-
-11. Change **Video Bitrate** to the 900 option. This sets your video quality. If you have an upload speed higher than 1MBPS at [speedtest.net](http://speedtest.net) you can set the Video Bitrate option to higher. As a rule of thumb, you always want to be broadcasting a video bitrate and audio bitrate 20% lower than your upload speed. So, for example, if you have a 1MBPS upload, you want to broadcast video and audio bitrates that total 800 or so (audio bitrate of 192 and video of around 600). 
-
-12. Click **OK**
-
-13. Click **Start Streaming**. Congratulations, you're streaming live on Chew!
+10. Click **Start Streaming**. Once Chew's detected your signal, you're live! Nice work. 
 
 # PC Users
 
