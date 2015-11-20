@@ -20,6 +20,6 @@ This section explains how to create a Show on the Chew platform and then what to
 
 ### 3. [Encoder Setup](http://chew.tv/guide/encoder_setup/getting_started)
 
-There are some great encoders on the market for live streaming. We recommend using the amazing [OBS](http://obsproject.com] and explain why in this section.
+There are some great encoders on the market for live streaming. We recommend using the amazing [OBS](http://obsproject.com) and explain why in this section.
 
 For questions and/ or support requests, we're here to help! Just [get in touch](http://chew.tv/guide/help_and_support).
