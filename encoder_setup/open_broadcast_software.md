@@ -4,7 +4,7 @@
 
 There are two free versions available: 
 
-- OBS for [PC](https://obsproject.com/download))
+- OBS for [PC](https://obsproject.com/download)
 - OBS for [Mac](https://obsproject.com/download#mac)
 
 OBS has a fairly in-depth [Help](http://jp9000.github.io/OBS), [Support](http://jp9000.github.io/OBS/general/support.html) and [FAQ](http://jp9000.github.io/OBS/general/faq.html) sections on their website - but we'll condense what you need to know below.
