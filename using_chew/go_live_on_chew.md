@@ -1,6 +1,6 @@
 # Go Live
 
-If you've clicked on the 'Go Live' or 'New Show' links in the menu, you'll create a new Show. As a DJ, producer or creator on Chew, this is where you perform to the world!
+If you've clicked on the [Go Live](http://chew.tv/account/show/new) or [New Show](http://chew.tv/account/show/new) links in the menu, you'll create a new Show. As a DJ, producer or creator on Chew, this is where you perform to the world!
 
 The Run page, the page you're now on, is private to you. Only you have access to this. The page is unique to every Show, giving you each Show's unique streaming information - like your [encoder](http://chew.tv/guide/encoder_setup/getting_started) details. 
 
