@@ -7,7 +7,7 @@ Once you have planned your Show and you've chosen your broadcast kit, the final 
 OBS is awesome. This section will talk you through how to get started. 
 
 - [OBS for Mac](http://chew.tv/guide/encoder_setup/obs_mac)
-- [OBS for PC]((http://chew.tv/guide/encoder_setup/obs_pc)
+- [OBS for PC](http://chew.tv/guide/encoder_setup/obs_pc)
 
 ## [Doing more with OBS](http://chew.tv/guide/encoder_setup/doing_more_with_obs)
 
