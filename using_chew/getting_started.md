@@ -4,11 +4,9 @@ The Chew platform is designed to be as simple as possible. You can get started a
 
 In this section, we offer some pointers on using the platform - but, as always, if you have any questions please [get in touch](http://chew.tv/guide/help_and_support).
 
-## Register & Login
+## [Your Chew account](http://chew.tv/guide/using_chew/chew_account)
 
-If you haven't already done so, you'll need to [register](http://chew.tv/register) for a Chew account before you can stream your first Show. 
-
-If you have registered for a Chew account, simply [login](http://chew.tv/login)... 
+You'll need to [register](http://chew.tv/register) for a Chew account before you can stream your first Show. If you have registered for a Chew account, simply [login](http://chew.tv/login) to access your account. This section explains what happens next! 
 
 ## [Creating a Show](http://chew.tv/guide/using_chew/creating_a_show)
 
