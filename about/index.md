@@ -7,11 +7,11 @@ Chew is a live streaming platform that connects a community of nearly 20,000 ama
 We're a (full-time) [team of three](http://chew.tv/guide/about/team) based in east London. We're amateur DJs, musicians, record label managers and event promoters and love what we do!
 
 ## Fun facts
-- Users: Over 17,500
-- Shows created: over 30,000
-- Tags used: over 17,000
-- Number of hours of content broadcast: Over 7,500
-- Number of hours of content watched: Over 30,000
+- Users: 17,500+
+- Shows created: 30,000+
+- Tags used: 17,000+
+- Number of hours of content broadcast: 7,500+
+- Number of hours of content watched: 30,000+
 
 ## Help and Support
 
