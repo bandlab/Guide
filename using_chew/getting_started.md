@@ -12,7 +12,7 @@ You'll need to [register](http://chew.tv/register) for a Chew account before you
 
 The core of the Chew platform is based around Shows. Think of a Show on Chew like a single DJ set or production session. Use this section of the guide to discover how easy it is to create, broadcast and experience a Show on Chew!
 
-## [Setting up your encoder](http://chew.tv/guide/encoder_setup/open_broadcast_software)
+## [Setting up your encoder](http://chew.tv/guide/encoder_setup/getting_started)
 
 Find out how to stream to Chew with this quick and easy guide to getting started with an encoder!  
 
