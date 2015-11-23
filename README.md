@@ -2,7 +2,7 @@
 
 ## About Chew
 
-[Chew](http://chew.tv/guideabout/index) lets you live stream an event in seconds. Take your local event global!
+With [Chew](http://chew.tv/guideabout/index), you can broadcast your DJ set, production session - or more - to a global audience. And it takes seconds to get started!
 
 ## About the Chew Guide
 
