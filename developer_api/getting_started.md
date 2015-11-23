@@ -14,7 +14,7 @@ Click on the API version for detailed documentation.
 
 ## Shows
 
-The Show API allows you to create, get and delete episodes in the Chew platform. An episode equates to a single live streaming event with a single publish point, player and archive.
+The Show API allows you to create, get and delete Shows in the Chew platform. A Show equates to a single live streaming event with a single publish point, player and archive.
 
 
 ## Series
