@@ -14,7 +14,7 @@ Live streaming is an extremely cost effective way of taking a local event global
 
 ## What is Chew?
 
-Chew is the live streaming community for DJs, built by DJs.
+Chew is the live streaming community for DJs, producers and personalities.
 
 ## How much does Chew cost?
 
