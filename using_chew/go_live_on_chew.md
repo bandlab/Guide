@@ -20,7 +20,7 @@ The public Watch page is where your audience watches your Show.
 
 ![Image of Yaktocat](https://raw.githubusercontent.com/chewcode/Guide/master/using_chew/go_live_on_chew_2.png)
 
-You'll need to share the Watch page URL (which is displayed on your Show's Run page) so your audience knows you've Gone Live. 
+You'll need to [share the Watch page](http://chew.tv/guide/using_chew/sharing_the_watch_page) URL (which is displayed on your Show's Run page) so your audience knows you've Gone Live. You can also [embed the Chew player](http://chew.tv/guide/using_chew/embedding_the_chew_player) on other websites. 
 Once your viewers have clicked your Watch page URL, they'll be able to view your Show, talk to you and other viewers in the Chew Chat and share the Watch page themselves.
 
 # Setting up your encoder
