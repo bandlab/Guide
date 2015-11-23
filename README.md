@@ -2,7 +2,7 @@
 
 ## About Chew
 
-With the Chew platform, you can live stream an event in seconds using a smartphone, computer or even a professional broadcasting setup!
+[Chew](http://chew.tv/guideabout/index) lets you live stream an event in seconds. Take your local event global!
 
 ## About the Chew Guide
 
