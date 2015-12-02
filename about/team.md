@@ -4,17 +4,13 @@
 
 [headshot]
 
-Ben’s music and technology career began early. A drummer since the age of six, he studied technology at school. Ben left college to freelance and run his own e-learning business. But his interest in electronic music and DJing grew, and he came to London to get experience via internships.
+A drummer from the age of six, Ben started his music and technology career early. He studied technology at school, before leaving college to freelance as a developer. As his interest in electronic music and DJing grew, Ben moved to London to gain invaluable industry experience.
 
-He started at a company called [AEI Media](http://aeimedia.co.uk) as a marketing intern and went from there to become a key member of the team, building their live streaming and e-commerce platform. From AEI, Ben moved to [Vice](http://vice.com) to work on their ad sales and internal business apps.
+He joined [AEI Media](http://aeimedia.co.uk) as a marketing intern, quickly becoming a key member of the team. During his time with the business, Ben built AEI's live streaming and e-commerce platform. Ben then joined [Vice](http://vice.com) to work on both their ad sales and internal business software.
 
-The idea that would become Chew came out of Ben's time at AEI; live streaming was a critical way of pushing new content and promoting AEI's releases to a global audience.
+Ben met Wil Benton in 2013; having previously been a fan of Wil's music, tech and culture blog FatKidOnFire. The duo started working together on what was then a sideline project... 
 
-Meeting Chew co-founder Wil Benton was a turning point. Ben had been introduced to Wil the year before and loved his writing style and approach to life on his blog FatKidOnFire. The duo started what was then a sideline project - a project that turned into something more.
-
-With the help of a start-up loan, Chew officially came into being at the start of 2014. The core of a live streaming platform was there, but Wil and Ben lacked focus. Towards the of the year, Chew cost clients as much as £500 per month to use the platform, but the duo had become more of a production company than a platform.
-
-At the end of 2014, Chew was accepted into the [Ignite](http://ignite100.com) accelerator program, which helped Ben and Wil re-focus and re-build the platform into what it is now. Since then, Chew has seen a rapid increase in the number of DJs and music fans coming into the community.
+With the help of a start-up loan, Chew officially came into being at the start of 2014. The core of a live streaming platform was there, but the duo lacked experience and focus. At the end of the year, Chew joined the [Ignite](http://ignite100.com) accelerator program, giving Ben and Wil the focus and time to refine Chew into what it is now. Since then, Chew has seen a rapid increase in the number of DJs and music fans coming into the community.
 
 ## Wil Benton
 
