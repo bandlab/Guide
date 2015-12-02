@@ -20,7 +20,7 @@ Wil moved to London to study Pharmacology at King's College London in 2007. It w
 
 Having been introduced by a mutual friend, Wil started working with Ben Bowler in 2013. The duo went on to start Chew in early 2014. After finishing the Ignite accelerator programme, Wil and Ben launched the platform in early 2015. To date, they've raised a seed investment round, welcomed nearly 20,000 users to Chew and hired their first employee. 
 
-Wil is known for his rather unnecessary trainer collection, and enjoys the odd burger, burrito and whiskey while listening to music that frightens his mother. He's also a record label manager and sometimes amateur DJ.
+Wil is known for his rather unnecessary trainer collection, enjoys the odd burger, burrito and whiskey while listening to music that frightens his mother. He also finds time to manage a record label and occasionally DJ (badly).
 
 ## Sam Millar
 
@@ -28,8 +28,6 @@ Wil is known for his rather unnecessary trainer collection, and enjoys the odd b
 
 Sam is a 22 year-old computer science graduate with a love for web-development and associated technologies. His interests span the entire stack, from Linux sysadmin to user experience design.
 
-His love for engineering began in 2006 when he registered his first domain for a PHP-based personal website. Since then, Sam's shifted to technologies like AngularJS, Django, Rails, jQuery in conjunction with Linux, SQL, nginx stacks.
-
-As a full-stack developer, Sam's interested in the latest technologies - incorporating them into his projects wherever possible.
+His love for engineering began in 2006 when he registered his first domain for a PHP-based personal website. Since then, Sam's shifted to technologies like AngularJS, Django, Rails, jQuery in conjunction with Linux, SQL, nginx stacks. As a full-stack developer, Sam's interested in the latest technologies - incorporating them into his projects wherever possible.
 
 Sam joined the Chew team straight out of University (where he graduated with a MEng Computer Science degree within ECS at the University of Southampton), moving to London in the summer of 2015. He's been instrumental in the platform's successes since. Sam spends much of his spare time discovering and exploring (mostly electronic) music. He's a keen DJ and is also experimenting with Logic Pro X in the hope of producing his own music someday soon.
