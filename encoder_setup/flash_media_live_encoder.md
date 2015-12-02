@@ -1,8 +1,8 @@
 # Streaming with Flash Media Live Encoder (FMLE)
 
-[Flash Media Live Encoder](http://www.adobe.com/uk/products/flash-media-encoder.html) is "a media encoder that streams audio and video in real time to Adobe Media Server software or Flash Video Streaming Service (FVSS). This software can enable the broadcast of live events around the clock."
+###While Chew is built to work with most RTMP encoders, we recommend you broadcast to Chew using [OBS](http://chew.tv/Guide/encoder_setup/how_to_use_open_broadcast_software).
 
-If you're just getting started with live streaming using a single camera, Flash Media Encoder is a great entry point. It's both robust and free!
+If you're just getting started with live streaming using a single camera, [Flash Media Live Encoder](http://www.adobe.com/uk/products/flash-media-encoder.html) is a great entry point. It's both robust and free!
 
 <u>Streaming through Flash Media Encoder Overview</u>
 
