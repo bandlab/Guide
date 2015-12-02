@@ -38,7 +38,7 @@ If you’d rather just have one embed code, you can use the Channel embed that, 
 
 It sounds like an obvious one, but again this is a really easy (and quick) tool to get the most out of your live Shows on Chew. 
 
-###1) ChewChat
+###1) Chew chat
 
 ![Image of Yaktocat](https://raw.githubusercontent.com/chewcode/Guide/master/using_chew/bugle.png)
 
