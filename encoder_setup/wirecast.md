@@ -1,6 +1,8 @@
 # Streaming with Telestream's Wirecast
 
-[Wirecast](http://www.telestream.net/wirecast/overview.htm) is the "only cross-platform, all-in-one live streaming production software that enables capture, live production, and encoding of live streams for broadcast to multiple servers and platforms simultaneously."
+###_While Chew is built to work with most RTMP encoders, we recommend you broadcast to Chew using [OBS](http://chew.tv/Guide/encoder_setup/how_to_use_open_broadcast_software)._
+
+[Wirecast](http://www.telestream.net/wirecast/overview.htm) is the "only cross-platform, all-in-one live streaming production software that enables capture, live production, and encoding of live streams for broadcast to multiple servers and platforms simultaneously".
 
 It is one of the best encoders we've used - with a huge range of [features](http://www.telestream.net/wirecast/features.htm) - but does (unfortunately for those of you on a budget!) come at a price. Wirecast licenses start at $495 and goes up to $1,194. You can find out more [here](http://www.telestream.net/wirecast/store.asp). 
 

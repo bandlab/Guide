@@ -14,7 +14,7 @@ Live streaming is an extremely cost effective way of taking a local event global
 
 ## What is Chew?
 
-Chew is the live streaming community for DJs, built by DJs.
+Chew is the live streaming community for DJs, producers and personalities.
 
 ## How much does Chew cost?
 
@@ -29,6 +29,10 @@ Please keep your browser and software updated to the latest version for the smoo
 ## How do I use Chew to build an audience?
 
 Don't worry, we've got you covered! You can find a quick walkthrough of the tricks we've used [here](http://chew.tv/guide/using_chew/building_your_audience_on_chew).
+
+##What formats can I broadcast on Chew?
+
+Regardless of the encoder you're using, please make sure you broadcast video in H.264 (regardless of what encoder you're streaming with) and at a framerate of 30fps or less. Please also make sure you stream AAC audio!
 
 ## Can I offer pay-per-view streams using Chew?
 

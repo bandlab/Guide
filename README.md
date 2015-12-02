@@ -2,7 +2,7 @@
 
 ## About Chew
 
-With the Chew platform, you can live stream an event in seconds using a smartphone, computer or even a professional broadcasting setup!
+With [Chew](http://chew.tv/guideabout/index), you can broadcast your DJ set, production session - or more - to a global audience. And it takes seconds to get started!
 
 ## About the Chew Guide
 
