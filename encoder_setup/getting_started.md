@@ -18,3 +18,7 @@ So you've mastered the single camera stream? Here's a few tips of what else you 
 ## [Chew *Go Live*](http://chew.tv/guide/encoder_setup/chew_mobile_app)
 
 Fancy broadcasting with your smartphone? Check this out! 
+
+## [Advanced](http://chew.tv/guide/encoder_setup/advanced_live_streaming)
+
+Check this section if you want to get really technical with your Shows on Chew.
