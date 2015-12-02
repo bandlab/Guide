@@ -16,10 +16,6 @@ The core of the Chew platform is based around Shows. Think of a Show on Chew lik
 
 Find out how to stream to Chew with this quick and easy guide to getting started with an encoder!  
 
-## [Updating your Audio Input](http://chew.tv/guide/using_chew/updating_your_audio_interface_mac_osx)
-
-For Mac OSX users, you may need to follow these steps to update your audio input to either an audio desk or controller input before Going Live on Chew. Follow these three simple steps and you'll be good to go!
-
 ## [Building Your Audience](http://chew.tv/guide/using_chew/building_your_audience_on_chew)
 
 Want to know how to use Chew to build and engage an audience? Here's a few helpful tips to get you started!
