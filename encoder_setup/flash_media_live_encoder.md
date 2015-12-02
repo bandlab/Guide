@@ -1,6 +1,6 @@
 # Streaming with Flash Media Live Encoder (FMLE)
 
-###While Chew is built to work with most RTMP encoders, we recommend you broadcast to Chew using [OBS](http://chew.tv/Guide/encoder_setup/how_to_use_open_broadcast_software).
+###_While Chew is built to work with most RTMP encoders, we recommend you broadcast to Chew using [OBS](http://chew.tv/Guide/encoder_setup/how_to_use_open_broadcast_software)._
 
 If you're just getting started with live streaming using a single camera, [Flash Media Live Encoder](http://www.adobe.com/uk/products/flash-media-encoder.html) is a great entry point. It's both robust and free!
 
