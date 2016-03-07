@@ -11,7 +11,7 @@ We're a (full-time) team of three based in east London. We're amateur DJs, music
 - Shows created: 30,000+
 - Tags used: 17,000+
 - Number of hours of content broadcast: 10,000+
-- Number of hours of content watched: 60,000+
+- Number of hours of content watched: 80,000+
 
 ## Help and Support
 
