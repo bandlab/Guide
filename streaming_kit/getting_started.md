@@ -1,4 +1,4 @@
-# (Choosing your) Streaming Kit
+# Choosing your Streaming Kit
 
 Video cameras, audio interfaces (and recorders) and computers have come a long way since the early days of video broadcasting. Equipment these days offers a professional live streaming setup to almost anyone on any budget. 
 
@@ -20,7 +20,7 @@ Here's our suggestions on lighting kit.
 
 ## [Capture Cards](http://chew.tv/guide/streaming_kit/capture_cards)
 
-What sits between your camera and your computer is often an overlooked part of the live streaming process. But, funnily enough, it's a crucial part of the _live_ part of live streaming!
+What sits between your camera and your computer is an often overlooked part of the live streaming process. But, funnily enough, it's a crucial part of the _live_ part of live streaming!
 
 ## [Visual Mixers](http://chew.tv/guide/streaming_kit/visual_mixers)
 
