@@ -1,20 +1,20 @@
 # Chew Guide to Live Streaming
 
-## About Chew
+## [About Chew](http://chew.tv/guide/about/index)
 
-With [Chew](http://chew.tv/guideabout/index), you can broadcast your DJ set, production session - or more - to a global audience. And it takes seconds to get started!
+Chew is the live streaming community for DJs, producers, personalities and their fans. 
 
 ## About the Chew Guide
 
-The Chew Guide will help you get started on the Chew platform - as well as helping you create your first Show, choose your streaming kit and set up an encoder. To make things easier, everything in the Guide is split into 4 categories. You can read up on as little or as much as you need to get started on the Chew platform!
+Use the Chew Guide to get started on Chew. It'll help you create your first show, set up an encoder and more. 
 
 ## Open Source
 
 There's a tonne of information available online to learn about live streaming. 
 
-In some cases, we've found this information isn't always correct or as useful as it could be. We've been streaming events for a good few years and think it's time to start sharing the knowledge gained - without limitations or bias. 
+In some cases, we've found this information isn't always correct or as useful as it could be. We've been streaming events for a good few years and think it's time to start sharing the knowledge we've gained - without limitations or bias. 
 
-With the exception of pages that describe the [Chew platform](http://chew.tv/guide/using_chew/getting_started) and our [developer API](http://chew.tv/guide/developer_api/getting_started), feel free to submit issues and pull requests for review!
+With the exception of pages that describe the [Chew platform](http://chew.tv/guide/using_chew/getting_started), feel free to submit issues and pull requests for review!
 
 The Chew Guide is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://chew.tv/guide/LICENCE).
 
