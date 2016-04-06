@@ -16,15 +16,8 @@ A second camera gives your audience the ability to see more of what you're doing
 
 Adding imagery to your OBS broadcast can be as simple as adding a logo to your streams. But you can also add live visualisations, camera templates and more to make your content more visually engaging for your audience. 
 
-You can see what Riglow does with image overlays below:
-
-[image]
-http://chew.tv/riglow/advanced-broadcast-settings-for-open-broadcast-software
-
-Borderline Radio also use extra imagery during their broadcasts:
-
-[image]
-http://chew.tv/borderline-radio/borderline-radio-show-27
+We love what [BBC Radio 1xtra's Jamz Supernova](http://chew.tv/futurebounce) does with her shows: multi-cam, image overlays and more. 
+[SSR London](https://chew.tv/ssr-london) are another great example of a Chew broadcaster pushing the boundaries of what you can do during a live show. 
 
 ##And much, much more
 
