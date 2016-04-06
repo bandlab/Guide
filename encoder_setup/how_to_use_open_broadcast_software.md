@@ -1,8 +1,8 @@
 # Getting started with OBS
 
-[Open Broadcaster Software](https://obsproject.com/) is free and open source software for video recording and live streaming. If you're so inclined, you can find its source code on [github](https://github.com/jp9000/OBS). 
+[Open Broadcaster Software](https://obsproject.com/) is free and open source software for video recording and live streaming. You can find its source code on [github](https://github.com/jp9000/OBS). 
 
-There are two free versions available: 
+There are two versions available: 
 
 - OBS for PC [(download)](https://obsproject.com/download)
 - OBS for Mac [(download)](https://obsproject.com/download#mac)
