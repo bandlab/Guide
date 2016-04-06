@@ -1,6 +1,6 @@
 # (Choosing your) Streaming Kit
 
-Video cameras, audio recorders and computers have come a long way since the first days of video broadcasting. They now offer a highly professional live streaming setup to almost anyone on any budget. 
+Video cameras, audio interfaces (and recorders) and computers have come a long way since the early days of video broadcasting. Equipment these days offers a professional live streaming setup to almost anyone on any budget. 
 
 There are too many different setups to cover in a single guide - and things will vary based on your available resources, the needs of your setup and the event itself. Why not join [our community Slack channel](http://slack.chew.tv) to ask for advice?
 
@@ -16,7 +16,7 @@ For music events, audio is often more important than video. Making sure you can 
 
 ## [Lighting](http://chew.tv/guide/streaming_kit/lighting)
 
-In [Event Setup](http://chew.tv/guide/event_setup/getting_started), we talk a lot about lighting. Here's our suggestions on lighting kit.
+Here's our suggestions on lighting kit.
 
 ## [Capture Cards](http://chew.tv/guide/streaming_kit/capture_cards)
 
