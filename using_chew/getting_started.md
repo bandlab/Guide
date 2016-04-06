@@ -24,6 +24,8 @@ Want to know how to use Chew to build and engage an audience? Here's a few helpf
 
 Do you want to create, join or stream with a crew? Here's how.
 
+## [Other Chew features](http://chew.tv/guide/using_chew/other_chew_features)
+
 ## [The Chew API](http://chew.tv/guide/developer_api/getting_started)
 
 Want to know more about the Chew API? Start here.
