@@ -1,14 +1,14 @@
 # Go Live
 
-If you've clicked on the [Go Live](http://chew.tv/account/show/new) or [New Show](http://chew.tv/account/show/new) links in the menu, you'll create a new Show. As a DJ, producer or creator on Chew, this is where you perform to the world!
+If you've clicked on the [Go Live](http://chew.tv/account/show/new) or [New Show](http://chew.tv/account/show/new) links in the menu, you'll create a new show. As a DJ, producer or creator on Chew, this is where you perform to the world!
 
-The Run page, the page you're now on, is private to you. Only you have access to this. The page is unique to every show, giving you each Show's unique streaming information - like your [encoder](http://chew.tv/guide/encoder_setup/getting_started) details. 
+The Run page, the page you're now on, is private to you. Only you have access to this. The page is unique to every show, giving you each show's unique streaming information - like your [encoder](http://chew.tv/guide/encoder_setup/getting_started) details. 
 
 ![Image of Yaktocat](https://raw.githubusercontent.com/chewcode/Guide/master/using_chew/go_live_on_chew_1.png)
 
 Get started:
 -	Give your show a title and description. This description is used on the Watch page and in text people see when your Watch link is shared.
-- Uploading a flyer image. This acts as a cover photo on both your Watch page and Chew player (before your Show starts). If you don't upload a flyer image, we use your Channel's cover image. 
+- Uploading a flyer image. This acts as a cover photo on both your Watch page and Chew player (before your show starts). If you don't upload a flyer image, we use your Channel's cover image. 
 - Set a start time. If you set a start time for a date in the future, the show will be scheduled and the Chew player will display a countdown timer.
 
 From the Run page, you can view your show's player (where you can preview what your viewers will see), the Watch page URL and your sharing details. 
@@ -16,7 +16,7 @@ You can also chat to your audience in Chew chat - without leaving the show's Run
 
 # Watch Page
 
-The public Watch page is where your audience watches your Show.
+The public Watch page is where your audience watches your show.
 
 ![Image of Yaktocat](https://raw.githubusercontent.com/chewcode/Guide/master/using_chew/go_live_on_chew_2.png)
 
