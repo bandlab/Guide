@@ -6,7 +6,7 @@ Chew is the live streaming community for DJs, producers, personalities and their
 
 ## About the Chew Guide
 
-Use the Chew Guide to get started on Chew. It'll help you create your first Show, set up an encoder and more. 
+Use the Chew Guide to get started on Chew. It'll help you create your first show, set up an encoder and more. 
 
 ### 1. [FAQ](http://chew.tv/guide/faq)
 
@@ -16,7 +16,7 @@ If you've got any burning questions, check our FAQ to see if we've answered them
 
 Use the Chew platform as the focal point for your live streams. 
 
-This section explains how to create a Show on the Chew platform and then what to do before and during your live stream.
+This section explains how to create a show, start broadcasting and much more!
 
 ### 3. [Encoder Setup](http://chew.tv/guide/encoder_setup/getting_started)
 
