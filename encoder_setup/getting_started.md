@@ -6,7 +6,7 @@ While we recommend using OBS, you can broadcast to Chew using any RTMP encoder (
 
 ## [Getting started with OBS](http://chew.tv/guide/encoder_setup/open_broadcast_software)
 
-OBS is awesome. This section will talk you through how to get started. 
+OBS is awesome. This section will talk you through how to use the [right bitrates](http://chew.tv/guide/encoder_setup/bitrates) and get started with: 
 
 - [OBS for Mac](http://chew.tv/guide/encoder_setup/obs_mac)
 - [OBS for PC](http://chew.tv/guide/encoder_setup/obs_pc)
