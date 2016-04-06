@@ -19,3 +19,7 @@ Find out how to stream to Chew with this quick and easy guide to getting started
 ## [Building Your Audience](http://chew.tv/guide/using_chew/building_your_audience_on_chew)
 
 Want to know how to use Chew to build and engage an audience? Here's a few helpful tips to get you started!
+
+## [The Chew API](http://chew.tv/guide/developer_api/getting_started)
+
+Want to know more about the Chew API? Start here.
