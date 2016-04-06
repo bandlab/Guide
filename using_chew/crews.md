@@ -10,7 +10,7 @@ With Chew crews, SUB FM could have a SUB FM crew that allows all the station’s
 
 _The SUB FM tag on Chew_
 
-Here's an example of the [Chew Staff Crew](http://chew.tv/crew/chew-staff-crew) (you can also find crews featured on the [homepage](http://chew.tv)):
+Here's an example of the [Chew Staff crew](http://chew.tv/crew/chew-staff-crew) (you can also find crews featured on the [homepage](http://chew.tv)):
 
 ![Chew Staff Crew](https://raw.githubusercontent.com/chewcode/Guide/master/using_chew/chew_staff_crew.png)
 
@@ -22,7 +22,7 @@ Crews can be open (i.e. anyone can join) or closed (i.e. users have to request p
 
 _Check the ‘Chew Staff Crew’ tag in the tag field_
 
-There’s a lot of functionality still to come from Chew Crews, but for now the Go Live process is the same as it’s always been. Go to the Crew you want to broadcast to, hit Go Live and follow the normal process to broadcast! You can also assign existing shows to a Crew by searching for the Crew's name in the tags field.
+There’s a lot of functionality still to come from Chew crews, but for now the Go Live process is the same as it’s always been. Go to the crew you want to broadcast to, hit Go Live and follow the normal process to broadcast! You can also assign existing shows to a crew by searching for, and then adding, the crew's name in the tags field.
 
 ![Crews on account page](https://raw.githubusercontent.com/chewcode/Guide/master/using_chew/crew_member.png)
 
