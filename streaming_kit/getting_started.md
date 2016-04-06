@@ -2,10 +2,9 @@
 
 Video cameras, audio recorders and computers have come a long way since the first days of video broadcasting. They now offer a highly professional live streaming setup to almost anyone on any budget. 
 
-There are too many different setups to cover in a single guide - and things will vary based on your available resources, the needs of your setup and the event itself (see [Event Setup](http://chew.tv//guide/event_setup/getting_started)). 
+There are too many different setups to cover in a single guide - and things will vary based on your available resources, the needs of your setup and the event itself. Why not join [our community Slack channel](http://slack.chew.tv) to ask for advice?
 
 In this section, we'll cover some common equipment that may help your research and buying decisions.
-
 
 ## [Cameras](http://chew.tv/guide/streaming_kit/cameras)
 
