@@ -2,7 +2,7 @@
 
 ## LED Light Panels
 
-We swear by using LED light panels to light our events. They're inexpensive, don't take up too much space or consume too much power, and they're bright! 
+We swear by using LED light panels to light our events. They're inexpensive, don't take up too much space or consume too much power and they're bright! 
 
 Depending on the event, we suggest you use one or more LED light panels. You can also use filters to really get the specific shot you're aiming for.
 
