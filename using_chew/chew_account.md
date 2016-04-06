@@ -14,7 +14,7 @@ From your Account, you'll be able to access the following:
 - [Connected Accounts](http://chew.tv/account#connections)
 	- Where you can link your Chew account to other social networks
 - [Channel Embed](http://chew.tv/account#embed)
-	- Where you access your Channel-wide embed code (more on that later)
+	- Where you access your Channel-wide embed code
 - [Widgets](http://chew.tv/account#widgets)
 	- Where you access your Chew widgets
 - [Email Address](http://chew.tv/account#email) and Password
