@@ -1,6 +1,6 @@
 # Help and Support
 
-If you have a query, the first thing you should do is send us an email via the [support@chew.tv](mailto:support@chew.tv) address.
+If you have a query, you can contact [support@chew.tv](mailto:support@chew.tv) or join the [Chew community Slack channel](http://slack.chew.tv) where a member of the community may be able to help!.
 
 ## Anything Else
 
