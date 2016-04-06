@@ -6,7 +6,7 @@ If you want to embed the Chew player on an external site, we've made the process
 
 ## Embedding the Chew Channel Player
 
-If you'd rather embed a single player, instead of updating your embed for every show, you can. We've created a channel-level embed code (which is available in your [Account page](http://chew.tv/account#embed)) which will display every live show (or scheduled show) on your Chew account. If you have no scheduled or live shows this will display your most recent public show. Embed the Channel Player as you would with the show Player (or any other embed)!
+If you'd rather embed a single player, instead of updating your embed for every show, you can. We've created a channel-level embed code (which is available in your [Account page](http://chew.tv/account#embed)) that will display every live show (or scheduled show) on your Chew account. If you have no scheduled or live shows this will display your most recent public show. Embed the Channel Player as you would with the show Player (or any other embed)!
 
 ![Image of Yaktocat](https://raw.githubusercontent.com/chewcode/Guide/master/using_chew/channel_embed.png)
 
