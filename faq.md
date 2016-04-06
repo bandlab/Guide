@@ -10,7 +10,7 @@ On Chew, we see live streaming as being the broadcast of live video and audio co
 
 ## What is Chew?
 
-Chew is the live streaming community for DJs, producers and personalities.
+[Chew](http://chew.tv/guide/about) is the live streaming community for DJs, producers and personalities.
 
 ## How much does Chew cost?
 
