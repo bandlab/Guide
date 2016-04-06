@@ -7,9 +7,9 @@ The Run page, the page you're now on, is private to you. Only you have access to
 ![Image of Yaktocat](https://raw.githubusercontent.com/chewcode/Guide/master/using_chew/go_live_on_chew_1.png)
 
 Get started:
--	Give your show a title and description. This description is used on the Watch page and in text people see when your Watch link is shared.
-- Uploading a flyer image. This acts as a cover photo on both your Watch page and Chew player (before your show starts). If you don't upload a flyer image, we use your Channel's cover image. 
-- Set a start time. If you set a start time for a date in the future, the show will be scheduled and the Chew player will display a countdown timer.
+-	Give your show a title and description: This description is used on the Watch page and in text people see when your Watch link is shared.
+- Uploading a flyer image: This acts as a cover photo on both your Watch page and Chew player (before your show starts). If you don't upload a flyer image, we use your Channel's cover image. 
+- Set a start time: If you set a start time for a date in the future, the show will be scheduled and the Chew player will display a countdown timer.
 
 From the Run page, you can view your show's player (where you can preview what your viewers will see), the Watch page URL and your sharing details. 
 You can also chat to your audience in Chew chat - without leaving the show's Run page!
