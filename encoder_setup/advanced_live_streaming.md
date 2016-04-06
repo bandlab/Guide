@@ -25,7 +25,7 @@ We love what [BBC Radio 1xtra's Jamz Supernova](http://chew.tv/futurebounce) doe
 
 While we recommend you use OBS for Chew broadcasts, you can stream to Chew using any RTMP encoder. 
 
-You can use [Flash Media Live Encoder](www.adobe.com/uk/products/flash-media-encoder.html), [Wirecast](http://www.telestream.net/wirecast/overview.htm) and many more RTMP encoders to stream to Chew. Once you've added your input sources, simply copy and paste your Server URL and Stream Key from Chew into your encoder's stream output settings and Go Live!  
+You can use [Flash Media Live Encoder](http://www.adobe.com/uk/products/flash-media-encoder.html), [Wirecast](http://www.telestream.net/wirecast/overview.htm) and many more RTMP encoders to stream to Chew. Once you've added your input sources, simply copy and paste your Server URL and Stream Key from Chew into your encoder's stream output settings and Go Live!  
 
 ##And much, much more
 
