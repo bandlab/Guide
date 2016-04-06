@@ -20,6 +20,10 @@ Find out how to stream to Chew with this quick and easy guide to getting started
 
 Want to know how to use Chew to build and engage an audience? Here's a few helpful tips to get you started!
 
+## [Crews](http://chew.tv/guide/using_chew/crews)
+
+Do you want to create, join or stream with a crew? Here's how.
+
 ## [The Chew API](http://chew.tv/guide/developer_api/getting_started)
 
 Want to know more about the Chew API? Start here.
