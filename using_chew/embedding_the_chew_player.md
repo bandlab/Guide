@@ -2,9 +2,13 @@
 
 If you want to embed the Chew player on an external site, we've made the process super simple for you. You'll find your show's unique embed code on the specific show's Go Live or Edit pages. From there, simply copy and paste the embed code into the HTML view of your CMS or into your website's code. If you don't manage your website directly yourself, then your content editor or website administrator will be able to do this for you.
 
+![Image of Yaktocat](https://raw.githubusercontent.com/chewcode/Guide/master/using_chew/show_embed.png)
+
 ## Embedding the Chew Channel Player
 
 If you'd rather embed a single player, instead of updating your embed for every show, you can. We've created a channel-level embed code (which is available in your [Account page](http://chew.tv/account#embed)) which will display every live show (or scheduled show) on your Chew account. If you have no scheduled or live shows this will display your most recent public show. Embed the Channel Player as you would with the show Player (or any other embed)!
+
+![Image of Yaktocat](https://raw.githubusercontent.com/chewcode/Guide/master/using_chew/channel_embed.png)
 
 ## Embedding Chew chat
 
