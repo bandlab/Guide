@@ -2,7 +2,7 @@
 
 The Chew platform is designed to be as simple as possible. You can get started and stream your first show in seconds! 
 
-If you have any questions [email Support](mailto:support@chew.tv) or (join our community Slack channel](http://slack.chew.tv)
+If you have any questions [email Support](mailto:support@chew.tv) or [join our community Slack channel](http://slack.chew.tv)
 
 ## [Your Chew account](http://chew.tv/guide/using_chew/chew_account)
 
