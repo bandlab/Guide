@@ -1,31 +1,33 @@
 # Using Chew
 
-The Chew platform is designed to be as simple as possible. You can get started and stream your first Show in seconds! 
+The Chew platform is designed to be as simple as possible. You can get started and stream your first show in seconds! 
 
-In this section, we offer some pointers on using the platform - but, as always, if you have any questions please do [get in touch](http://chew.tv/guide/help_and_support).
+If you have any questions [email Support](mailto:support@chew.tv) or [join our community Slack channel](http://slack.chew.tv)
 
-## Register & Login
+## [Your Chew account](http://chew.tv/guide/using_chew/chew_account)
 
-If you haven't already done so, you'll need to [register](http://chew.tv/register) for a Chew account before you can stream your first Show. 
+You'll need to [register](http://chew.tv/register) for a Chew account before you can stream your first show. If you have registered for a Chew account, simply [login](http://chew.tv/login) to access your account. This section explains what happens next! 
 
-If you have registered for a Chew account, simply [login](http://chew.tv/login)... 
+## [Creating a show](http://chew.tv/guide/using_chew/go_live_on_chew)
 
-## [Creating a Show](http://chew.tv/guide/using_chew/creating_a_show)
+The core of the Chew platform is based around shows. Think of a show on Chew like a single DJ set or production session. Use this section of the guide to discover how easy it is to create, broadcast and experience a show on Chew!
 
-The core of the Chew platform is based around Shows. A Show is a single complete stream with both unique player and streaming details. Use this section of the guide to discover how easy it is to stream a Show on Chew!
+## [Setting up your encoder](http://chew.tv/guide/encoder_setup/getting_started)
 
-## [Updating your Audio Input](http://chew.tv/guide/using_chew/updating_your_audio_interface_mac_osx)
-
-For Mac OSX users, you may need to follow these steps to update your audio input to either an audio desk or controller input before Going Live. Follow these three simple steps and you'll be good to go!
-
-## [Sharing the Watch Page](http://chew.tv/guide/using_chew/sharing_the_watch_page)
-
-All Shows on Chew are built around the Watch page. Find out what to do once you've created a Show.
-
-## [Embedding the Chew Player](http://chew.tv/guide/using_chew/embedding_the_chew_player)
-
-Find out how to embed the Chew player on external websites!
+Find out how to stream to Chew with this quick and easy guide to getting started with an encoder!  
 
 ## [Building Your Audience](http://chew.tv/guide/using_chew/building_your_audience_on_chew)
 
 Want to know how to use Chew to build and engage an audience? Here's a few helpful tips to get you started!
+
+## [Crews](http://chew.tv/guide/using_chew/crews)
+
+Do you want to create, join or stream with a crew? Here's how.
+
+## [Other Chew features](http://chew.tv/guide/using_chew/chew_features)
+
+This section gives you an overview of some of the features you have on Chew as a content creator.
+
+## [The Chew API](http://chew.tv/guide/developer_api/getting_started)
+
+Want to know more about the Chew API? Start here.

@@ -26,7 +26,7 @@ This is also a neat trick to do if you’re using the Channel-level embed (which
 
 ##Embedding
 
-Embedding the Chew player on other platforms is a really easy way to help reach a larger audience. You can either embed individual Shows (the embed code is on your Show’s Run page, the same place where you get your Server URL and Stream Name details for your encoder). 
+[Embedding the Chew player](using_chew/embedding_the_chew_player) on other platforms is a really easy way to help reach a larger audience. You can either embed individual Shows (the embed code is on your Show’s Run page, the same place where you get your Server URL and Stream Name details for your encoder). 
 
 ![Image of Yaktocat](https://raw.githubusercontent.com/chewcode/Guide/master/using_chew/FKOF.png)
 
@@ -38,7 +38,7 @@ If you’d rather just have one embed code, you can use the Channel embed that, 
 
 It sounds like an obvious one, but again this is a really easy (and quick) tool to get the most out of your live Shows on Chew. 
 
-###1) ChewChat
+###1) Chew chat
 
 ![Image of Yaktocat](https://raw.githubusercontent.com/chewcode/Guide/master/using_chew/bugle.png)
 

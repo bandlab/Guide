@@ -1,6 +1,6 @@
 # Audio Equipment
 
-When planning a live stream, audio is _hugely_ important. For the audio to be usable in the event's archive you want the highest quality audio signal coming into your encoder. You could also use a separate audio recorder (as we've sometimes done).
+When planning a DJ or production live stream, audio is _hugely_ important. For the audio to be usable in the event's archive you want the highest quality audio signal coming into your encoder. You could also use a separate audio recorder (as we've sometimes done) to record raw audio separately to your audiovisual broadcast.
 
 ## USB or Firewire Audio Interfaces
 

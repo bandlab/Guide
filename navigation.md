@@ -1,0 +1,33 @@
+# [Getting Started](guide/getting_started)
+
+# [FAQ](guide/faq)
+
+# [About Chew](guide/about/index)
+## [Team](guide/about/team)
+## [Press](guide/about/press)
+
+# [Using Chew](guide/using_chew/getting_started)
+## [Your Account](guide/using_chew/chew_account)
+## [Create a show and Go Live](guide/using_chew/go_live_on_chew)
+## [Sharing the Watch page](guide/using_chew/sharing_the_watch_page)
+## [Embedding the Chew player](guide/using_chew/embedding_the_chew_player)
+## [Building your audience](guide/using_chew/building_your_audience_on_chew)
+## [Chew features](guide/using_chew/chew_features)
+## [Chew Crews](guide/using_chew/crews)
+## [Chew API](guide/using_chew/chew_api)
+
+# [Streaming Kit](guide/streaming_kit/getting_started)
+## [Cameras](guide/streaming_kit/cameras)
+## [Capture Cards](guide/streaming_kit/capture_cards)
+## [Visual Mixers](guide/streaming_kit/visual_mixers)
+## [Audio Equipment](guide/streaming_kit/audio_equipment)
+## [Lighting](guide/streaming_kit/lighting)
+## [Mobile Streaming](guide/streaming_kit/accessories_for_mobile_live_streaming)
+
+# [Encoder Setup](guide/encoder_setup/getting_started)
+## [Bitrates](guide/encoder_setup/bitrates)
+## [Getting Started with OBS](guide/encoder_setup/how_to_use_open_broadcast_software)
+### [OBS for Mac](guide/encoder_setup/obs_mac)
+### [OBS for PC](guide/encoder_setup/obs_pc)
+## [Advanced Streaming](guide/encoder_setup/advanced_live_streaming.md)
+## [Chew Mobile App](guide/encoder_setup/chew_mobile_app)

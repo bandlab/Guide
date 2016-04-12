@@ -2,19 +2,15 @@
 
 Live streaming can be overwelming at first. Spend a bit of time doing it and it becomes really easy! 
 
-If you have any questions relating to any of the content found in the Chew Guide, please feel free to [get in touch](http://chew.tv/guide/help_and_support). We'd love to hear from you!
+If you have any queries about any of the content found in the Chew Guide, please feel free to [get in touch](http://chew.tv/guide/help_and_support) or join the [Chew community Slack channel](http://slack.chew.tv).
 
 ## What is live streaming?
 
-Live streaming is the broadcast of live video and audio content over the Internet.
-
-## Why should I live stream my event?
-
-Live streaming is an extremely cost effective way of taking a local event global. Or at least that's how we see it! 
+On Chew, we see live streaming as being the broadcast of live video and audio content over the Internet.
 
 ## What is Chew?
 
-Chew is the live streaming community for DJs, built by DJs.
+[Chew](http://chew.tv/guide/about) is the live streaming community for DJs, producers and personalities.
 
 ## How much does Chew cost?
 
@@ -30,9 +26,9 @@ Please keep your browser and software updated to the latest version for the smoo
 
 Don't worry, we've got you covered! You can find a quick walkthrough of the tricks we've used [here](http://chew.tv/guide/using_chew/building_your_audience_on_chew).
 
-## Can I offer pay-per-view streams using Chew?
+##What formats can I broadcast on Chew?
 
-Yes, but this is currently a private Alpha feature. Please [get in touch](http://chew.tv/guide/help_and_support) to find out more.
+Regardless of the encoder you're using, please make sure you broadcast video in H.264 and at a framerate of 30fps or less. Please also make sure you stream AAC audio!
 
 ## Does Chew limit the number of viewers who can watch my streams?
 
@@ -54,13 +50,11 @@ Generally, the number of cameras you can stream from is limited by the encoder y
 
 ## What encoder should I use?
 
-Chew is built to work with most encoders available on the market. We cater to users with free encoders like Flash Media Live Encoder, through to users with professional broadcast-level Wirecast licenses.
-
-If you come across any issues connecting an encoder to the Chew platform, [please get in touch](mailto:support@chew.tv)!
+Chew is built to work with most RTMP encoders. We recommend you use [OBS](http://chew.tv/guide/encoder_setup/getting_started) - but you can also use Flash Media Live Encoder, Wirecast and more.
 
 ## What type of connection should I use to stream?
 
-While WiFi is often as fast as a wired connection, a wired connection is generally much more reliable. Where possible, we recommend using a wired connection to stream through Chew. We also suggest testing your connection strength before you Go Live; using a tool like [Speedtest.net](http://speedtest.net/).
+While WiFi is often as fast as a wired connection, a wired connection is generally much more stable. Where possible, we recommend using a wired connection to stream through Chew. We also suggest testing your connection strength before you Go Live; using a tool like [Speedtest.net](http://speedtest.net/).
 
 On mobile, WiFi streaming is recommended over 3G. However, if you have a 4G-enabled phone and strong, consistent signal then 4G may be better than using a shared WiFi connection. Again, check the signal strength before you start streaming, perhaps using the [Speedtest.net app](http://www.speedtest.net/mobile/).
 
@@ -69,5 +63,3 @@ On mobile, WiFi streaming is recommended over 3G. However, if you have a 4G-enab
 As a rule of thumb, you should stream combined video bitrate and audio bitrates that are 20% lower than your upload speed. 
 
 So, for example, if you have use [Speedtest.net](http://www.speedtest.net/mobile/) and have an upload speed of 1mbps, you want to broadcast video and audio bitrates that total 800kbps or so (audio bitrate of 192 and video of around 600).
-
-[Please get in touch](mailto:support@chew.tv) if you have any queries! 
