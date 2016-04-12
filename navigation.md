@@ -29,5 +29,5 @@
 ## [Getting Started with OBS](guide/encoder_setup/how_to_use_open_broadcast_software)
 ### [OBS for Mac](guide/encoder_setup/obs_mac)
 ### [OBS for PC](guide/encoder_setup/obs_pc)
-## [Advanced Streaming](guide/encoder_setup/advanced_live_streaming.md)
+## [Advanced Streaming](guide/encoder_setup/advanced_live_streaming)
 ## [Chew Mobile App](guide/encoder_setup/chew_mobile_app)
