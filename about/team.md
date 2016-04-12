@@ -18,7 +18,7 @@ Wil is known for his rather unnecessary trainer collection, enjoys the odd burge
 
 ## Sam Millar
 
-Sam is a 22 year-old computer science graduate with a love for web-development and associated technologies. His interests span the entire stack, from Linux sysadmin to user experience design.
+Sam is a 23 year-old computer science graduate with a love for web-development and associated technologies. His interests span the entire stack, from Linux sysadmin to user experience design.
 
 His love for engineering began in 2006 when he registered his first domain for a PHP-based personal website. Since then, Sam's shifted to technologies like AngularJS, Django, Rails, jQuery in conjunction with Linux, SQL, nginx stacks. As a full-stack developer, Sam's interested in the latest technologies - incorporating them into his projects wherever possible.
 
