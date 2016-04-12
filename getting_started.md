@@ -18,7 +18,11 @@ Use the Chew platform as the focal point for your live streams.
 
 This section explains how to create a show, start broadcasting and much more!
 
-### 3. [Encoder Setup](http://chew.tv/guide/encoder_setup/getting_started)
+### 3. [Streaming Kit](http://chew.tv/guide/streaming_kit/getting_started)
+
+We've spent a lot of time getting to know live streaming equipment over the last few years. In this section, we go through some of the kit we've used and recommend.
+
+### 4. [Encoder Setup](http://chew.tv/guide/encoder_setup/getting_started)
 
 There are some great encoders on the market for live streaming. We recommend using the amazing [OBS](http://obsproject.com) and explain why in this section.
 
