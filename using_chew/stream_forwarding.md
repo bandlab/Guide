@@ -1,9 +1,9 @@
-# Stream Forwarding
+# Stream forwarding
 
 Chew [crews](https://chew.tv/guide/using_chew/crews) are a great way for groups of DJs to stream together or back to back. 
 With more DJs broadcasting and more viewers watching shows on Chew, we want to make it as simple as possible to keep the party going. 
 
-Our Stream Forwarding feature allows crew members to forward viewers onto a new show once one has finished. 
+Our stream forwarding feature allows crew members to forward viewers onto a new show once one has finished. 
 
 Here's how it works:
 
