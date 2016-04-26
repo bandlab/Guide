@@ -9,9 +9,9 @@ We're a (full-time) [team of three](https://chew.tv/guide/about/team) based in E
 ## Fun facts
 - Users: 20,000+
 - Shows created: 30,000+
-- Chat messages shared: 100,000+
-- Number of hours of content broadcast: 10,000+
-- Number of hours of content watched: 100,000+
+- Chat messages shared: 150,000+
+- Number of hours of content broadcast: 15,000+
+- Number of hours of content watched: 130,000+
 
 ## Help and Support
 
