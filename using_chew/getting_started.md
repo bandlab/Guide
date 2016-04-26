@@ -24,6 +24,10 @@ Want to know how to use Chew to build and engage an audience? Here's a few helpf
 
 Do you want to create, join or stream with a crew? Here's how.
 
+## [Stream forwarding](http://chew.tv/guide/using_chew/stream_forwarding)
+
+Want to know how to use crews for stream forwarding? Read on.
+
 ## [Other Chew features](http://chew.tv/guide/using_chew/chew_features)
 
 This section gives you an overview of some of the features you have on Chew as a content creator.
