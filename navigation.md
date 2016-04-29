@@ -14,6 +14,7 @@
 ## [Building your audience](guide/using_chew/building_your_audience_on_chew)
 ## [Chew features](guide/using_chew/chew_features)
 ## [Chew Crews](guide/using_chew/crews)
+## [Stream forwarding](guide/using_chew/stream_forwarding)
 ## [Chew API](guide/using_chew/chew_api)
 
 # [Streaming Kit](guide/streaming_kit/getting_started)
