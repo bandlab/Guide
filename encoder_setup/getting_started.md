@@ -4,7 +4,7 @@ Once you have planned your Show and you've chosen your broadcast kit, the final 
 
 While we recommend using OBS, you can broadcast to Chew using any RTMP encoder (like Flash Media Live Encoder or Wirecast).
 
-## [Getting started with OBS](http://chew.tv/guide/encoder_setup/open_broadcast_software)
+## [Getting started with OBS](https://chew.tv/guide/encoder_setup/how_to_use_open_broadcast_software)
 
 OBS is awesome. This section will walk you through how to get started with: 
 
