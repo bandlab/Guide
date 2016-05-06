@@ -24,4 +24,4 @@ You'll need to [share the Watch page](http://chew.tv/guide/using_chew/sharing_th
 
 # Setting up your encoder
 
-Once you've created your show, you'll need to [setup your encoder to Go Live](http://chew.tv/guide/encoder_setup/open_broadcast_software.md). 
+Once you've created your show, you'll need to [setup your encoder to Go Live](https://chew.tv/guide/encoder_setup/getting_started). 
