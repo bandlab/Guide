@@ -7,11 +7,11 @@
 We're a (full-time) [team of three](https://chew.tv/guide/about/team) based in East London. We're amateur DJs, musicians, record label managers and event promoters.
 
 ## Fun facts
-- Users: 20,000+
+- Users: 25,000+
 - Shows created: 30,000+
-- Chat messages shared: 150,000+
-- Number of hours of content broadcast: 15,000+
-- Number of hours of content watched: 130,000+
+- Chat messages shared: 170,000+
+- Number of hours of content broadcast: ~20,000
+- Number of hours of content watched: 150,000+
 
 ## Help and Support
 
