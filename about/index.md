@@ -2,7 +2,7 @@
 
 ## What is Chew?
 
-[Chew](http://chew.tv) is the live streaming platform that connects a community of over 25,000 amateur, up-and-coming and professional DJs, producers and personalities from over 130 countries around the world. Our community of content creators is joined by an audience of both fellow creators and fans in over 190 countries.
+[Chew](http://chew.tv) is the live streaming platform that connects a community of over 25,000 amateur, up-and-coming and professional DJs, producers and personalities from over 130 countries around the world with an audience in over 190 countries.
 
 We're a (full-time) [team of three](https://chew.tv/guide/about/team) based in London. We're amateur DJs, musicians, record label managers and event promoters.
 
@@ -10,7 +10,7 @@ We're a (full-time) [team of three](https://chew.tv/guide/about/team) based in L
 - Users: 25,000+
 - Shows created: 40,000+
 - Chat messages shared: 170,000+
-- Number of hours of content broadcast: ~20,000
+- Number of hours of content broadcast: 20,000+
 - Number of hours of content watched: 150,000+
 
 ## Help and Support
