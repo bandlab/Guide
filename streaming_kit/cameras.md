@@ -13,7 +13,7 @@ Live video is very different to recording to disk. For the live video signal to 
 
 ## Example cameras
 
-We've used a number of cameras in our live streams over the years, but we keep coming back to two types. GoPros (or similar 'action cameras') offer superb quality for relatively low cost and are great for running full HD streams. However, GoPros have mini HDMI output so you'll need an external [capture card](http://chew.tv/guide/stremaing_kit/capture_cards) to use them for streaming. 
+We've used a number of cameras in our live streams over the years, but we keep coming back to two types. GoPros (or similar 'action cameras') offer superb quality for relatively low cost and are great for running full HD streams. However, GoPros have mini HDMI output so you'll need an external [capture card](http://chew.tv/guide/streaming_kit/capture_cards) to use them for streaming. 
 
 When we're not needing to run streams with GoPros and capture cards, we'll often revert to using a good old USB webcam. You can often get two HD USB webcams for the price of a single capture card (and not then need a capture card because you're using USB!) so if you're looking for a camera to stream with, you can't go wrong with a USB webcam. We love the [Logitech C920](http://www.amazon.co.uk/Logitech-C920-Webcam-Auto-Focus-Microphone/dp/B006A2Q81M) (or other Logitech cams) and the [Microsoft Lifecam](http://www.amazon.co.uk/Microsoft-H5D-00003-Lifecam-Cinema-HD/dp/B002I3IRY8) - both are HD and easy to use! 
 
