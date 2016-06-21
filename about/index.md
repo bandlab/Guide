@@ -11,7 +11,7 @@ We're a (full-time) [team of three](https://chew.tv/guide/about/team) based in L
 - Shows created: 40,000+
 - Chat messages shared: 200,000+
 - Number of hours of content broadcast: 20,000+
-- Number of hours of content watched: 180,000+
+- Number of hours of content watched: 190,000+
 
 ## Help and Support
 
