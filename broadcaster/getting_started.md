@@ -7,7 +7,7 @@ Chew Broadcaster (or 'Broadcaster' for short) is the recommended software for st
 Using Broadcaster, you can create, manage or edit shows on Chew, get set up for streaming and Go Live to the world! 
 
 - Learn more about [Chew Broadcaster for Mac](http://chew.tv/guide/broadcaster/mac)
-- Learn more about [Chew Broadcaster for PC](http://chew.tv/guide/broadcaster/pc) 
+- Learn more about [Chew Broadcaster for PC](http://chew.tv/guide/broadcaster/pc). 
 
 ## [Advanced Streaming](http://chew.tv/guide/broadcaster/advanced_live_streaming)
 
