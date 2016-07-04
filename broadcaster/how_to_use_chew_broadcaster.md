@@ -4,8 +4,8 @@ Broadcaster is the recommended software for streaming to the Chew platform.
 
 There are two versions available: 
 
-- Broacaster for PC [(download)](https://obsproject.com/download)
-- Broacaster for Mac [(download)](https://obsproject.com/download#mac)
+- Broacaster for PC [(download)](http://chew.tv/guide/broadcaster/mac)
+- Broacaster for Mac [(download)](http://chew.tv/guide/broadcaster/pc)
 
 We've got step-by-step instructions for both [**Mac**](http://chew.tv/guide/broadcaster/mac) and [**PC**](http://chew.tv/guide/broadcaster/pc) users. 
 
