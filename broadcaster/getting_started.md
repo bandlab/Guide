@@ -1,24 +1,14 @@
-# Encoder Setup
+# Chew Broadcaster
 
-Once you have planned your Show and you've chosen your broadcast kit, the final step to streaming your first Show is your encoder. 
+Chew Broadcaster (or 'Broadcaster' for short) is the recommended software for streaming to the Chew platform. 
 
-While we recommend using OBS, you can broadcast to Chew using any RTMP encoder (like Flash Media Live Encoder or Wirecast).
+## [How to use Chew Broadcaster](https://chew.tv/guide/broadcaster/how_to_use_chew_broadcaster)
 
-## [Getting started with OBS](https://chew.tv/guide/encoder_setup/how_to_use_open_broadcast_software)
+Using Broadcaster, you can create, manage or edit shows on Chew, get set up for streaming and Go Live to the world! 
 
-OBS is awesome. This section will walk you through how to get started with: 
+- Learn more about [Chew Broadcaster for Mac](http://chew.tv/guide/broadcaster/mac)
+- Learn more about [Chew Broadcaster for PC](http://chew.tv/guide/broadcaster/pc) 
 
-- [OBS for Mac](http://chew.tv/guide/encoder_setup/obs_mac)
-- [OBS for PC](http://chew.tv/guide/encoder_setup/obs_pc)
+## [Advanced Streaming](http://chew.tv/guide/broadcaster/advanced_live_streaming)
 
-## [Bitrates](https://chew.tv/guide/encoder_setup/bitrates)
-
-Find out how to set the correct audio and video bitrates for the connection you'll be streaming on here!
-
-## [Chew *Go Live*](http://chew.tv/guide/encoder_setup/chew_mobile_app)
-
-Fancy broadcasting with your smartphone? Check this out! 
-
-## [Advanced](http://chew.tv/guide/encoder_setup/advanced_live_streaming)
-
-So you've mastered the single camera stream? Here's a few tips of what else you can do. 
+Comfortable with Broadcaster and want to do more? Here's what else is possible!
