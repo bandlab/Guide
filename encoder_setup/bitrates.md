@@ -6,9 +6,11 @@ As a rule of thumb, you always want to be broadcasting a video bitrate and audio
 
 For example, if you have an upload speed of 1Mbps, you want to broadcast combined video and audio bitrates of about 800kbps (i.e. an audio bitrate of 192kbps and video of around 600kbps).
 
-If your upload speed can support higher bitrates, we recommend an audio bitrate of 320kbps (for the best listening experience for your viewers) and ~2,500kbps video for a 720p or 1080p broadcast. Higher video bitrates result in increased CPU usage on your streaming computer so if you notice a jumpy picture, stuttering or lag, try lowering the resolution or video bitrate.
+If your upload speed can support higher bitrates, we recommend an audio bitrate of 320kbps (for the best listening experience for your viewers) and up to 2,500kbps video for a 720p or 1080p broadcast. Higher video bitrates result in increased CPU usage on your streaming computer so if you notice a jumpy picture, stuttering or lag, try lowering the resolution or video bitrate.
 
-In OBS, if you're using the 'Simple' Output mode in Settings you can update video and audio bitrates in the same section:
+In [Chew Broadcaster](https://chew.tv/guide/broadcaster/getting_started), we have a number of pre-set output settings depending on what quality you'd like to broadcast. However, you can set your own bitrates in Broadcaster's Settings. 
+
+If you're using the 'Simple' Output mode in Settings, you can update video and audio bitrates in the same section:
 
 ![OBS Simple Settings Pane](https://raw.githubusercontent.com/chewcode/Guide/master/encoder_setup/simple.png)
 
