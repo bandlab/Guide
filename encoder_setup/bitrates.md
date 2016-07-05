@@ -8,14 +8,14 @@ For example, if you have an upload speed of 1Mbps, you want to broadcast combine
 
 If your upload speed can support higher bitrates, we recommend an audio bitrate of 320kbps (for the best listening experience for your viewers) and up to 2,500kbps video for a 720p or 1080p broadcast. Higher video bitrates result in increased CPU usage on your streaming computer so if you notice a jumpy picture, stuttering or lag, try lowering the resolution or video bitrate.
 
-In [Chew Broadcaster](https://chew.tv/guide/broadcaster/getting_started), we have a number of pre-set output settings depending on what quality you'd like to broadcast. However, you can set your own bitrates in Broadcaster's Settings. 
+In [Chew Broadcaster](https://chew.tv/guide/broadcaster), we have a number of pre-set output settings depending on what quality you'd like to broadcast. However, you can set your own bitrates in Broadcaster's Settings. 
 
 If you're using the 'Simple' Output mode in Settings, you can update video and audio bitrates in the same section:
 
-![OBS Simple Settings Pane](https://raw.githubusercontent.com/chewcode/Guide/master/encoder_setup/simple.png)
+![OBS Simple Settings Pane](https://raw.githubusercontent.com/chewtv/Guide/master/encoder_setup/simple.png)
 
 If you're using the 'Advanced' Output mode in Settings, you'll need to update video and audio bitrates in their corresponding tabs:
 
-![OBS Advanced Settings Pane](https://raw.githubusercontent.com/chewcode/Guide/master/encoder_setup/advanced.png)
+![OBS Advanced Settings Pane](https://raw.githubusercontent.com/chewtv/Guide/master/encoder_setup/advanced.png)
 
 If you have any queries or issues with setting your bitrates, please [contact Support](mailto:support@chew.tv) or join the [Chew community Slack channel](http://slack.chew.tv) where someone will be able to help! 

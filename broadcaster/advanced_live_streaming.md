@@ -8,7 +8,7 @@ Broadcaster is a truly versatile piece of software. If you've mastered the singl
 
 We think the first step in doing more with Broadcaster is adding a second camera to your broadcast. 
 
-If you're using USB webcams as your main video input; this is as simple as adding an extra webcam to Broadcaster when you [get started](http://chew.tv/guide/broadcaster/getting_started). 
+If you're using USB webcams as your main video input; this is as simple as adding an extra webcam to Broadcaster when you [get started](http://chew.tv/guide/broadcaster). 
 
 If you're using external cameras with video capture cards, you can either add a USB camera to your setup (which is often what we do) or, if you're able to, adding a second camera and capture card. 
 
