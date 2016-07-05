@@ -25,7 +25,7 @@
 ## [Lighting](guide/streaming_kit/lighting)
 ## [Mobile Streaming](guide/streaming_kit/accessories_for_mobile_live_streaming)
 
-# [Chew Broadcaster](guide/broadcaster/getting_started)
+# [Chew Broadcaster](guide/broadcaster)
 ## [Bitrates](guide/encoder_setup/bitrates)
 ## [Getting Started with Chew Broadcaster](guide/broadcaster/how_to_use_chew_broadcaster)
 ### [Chew Broadcaster for Mac](guide/broadcaster/mac)
