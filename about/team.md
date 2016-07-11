@@ -6,7 +6,7 @@ A drummer from the age of six, Ben started his music and technology career early
 
 He joined [AEI Media](http://aeimedia.co.uk) as a marketing intern, quickly becoming a key member of the team. During his time with the business, Ben built AEI's live streaming and e-commerce platform. Ben then joined [Vice](http://vice.com) to work on both their ad sales and internal business software.
 
-Ben met Wil in 2013; having previously been a fan of Wil's music, tech and culture blog FatKidOnFire. The duo started working together on what was then a sideline project. With the help of a start-up loan, Chew officially came into being at the start of 2014. The core of a live streaming platform was there, but the duo lacked experience and focus. At the end of the year, Chew joined the [Ignite](http://ignite100.com) accelerator program, giving Ben and Wil the focus and time to refine Chew into what it is now. Since then, Chew has seen a rapid increase in the number of DJs and music fans coming into the community.
+Ben met Wil in 2013; having previously been a fan of Wil's music, tech and culture blog FatKidOnFire. The duo started working together on what was then a sideline project. With the help of a start-up loan, Chew officially came into being at the start of 2014. The core of a live streaming platform was there, but the duo lacked experience and focus. At the end of the year, Chew joined the [Ignite](http://ignite.io/) accelerator program, giving Ben and Wil the focus and time to refine Chew into what it is now. Since then, Chew has seen a rapid increase in the number of DJs and music fans coming into the community.
 
 ## Wil Benton
 
