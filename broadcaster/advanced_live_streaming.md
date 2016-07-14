@@ -27,7 +27,7 @@ To add overlays, simply add an 'Image' source to Broadcaster and select the imag
 
 While Broadcaster is the recommended software for streaming to the Chew platform, you can stream to Chew using any RTMP encoder. 
 
-You can use [Flash Media Live Encoder](http://www.adobe.com/uk/products/flash-media-encoder.html), [Wirecast](http://www.telestream.net/wirecast/overview.htm) and many more RTMP encoders to stream to Chew. Once you've added your input sources, simply copy and paste your Server URL and Stream Key from Chew into your encoder's stream output settings and Go Live!  
+You can use [Flash Media Live Encoder](http://www.adobe.com/uk/products/flash-media-encoder.html), [mimoLive](https://boinx.com/mimolive), [Wirecast](http://www.telestream.net/wirecast/overview.htm) and many more RTMP encoders to stream to Chew. Once you've added your input sources, simply copy and paste your Server URL and Stream Key from Chew into your encoder's stream output settings and Go Live!  
 
 ##And much, much more
 
