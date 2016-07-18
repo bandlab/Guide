@@ -2,11 +2,11 @@
 
 ##Doing more with OBS
 
-OBS is a truly versatile piece of software. If you've mastered the single camera stream using OBS, here are a few suggestions of what else you can do to make your Shows on Chew a bit more exciting...
+OBS is a truly versatile piece of software - that's why we based [Broadcaster](https://chew.tv/guide/broadcaster) on it! If you've mastered the single camera stream, here are a few suggestions of what else you can do to make your shows on Chew a bit more exciting...
 
 ###Multi-cam 
 
-We think the first step in doing more with OBS is adding a second camera to your broadcast. 
+We think the first step in doing more with an encoder like OBS is adding a second camera to your broadcast. 
 
 If you're using USB webcams as your main video input; this is as simple as adding an extra webcam to OBS when you [get started](http://chew.tv/guide/encoder_setup/open_broadcast_software). 
 
@@ -23,12 +23,12 @@ We love what [BBC Radio 1xtra's Jamz Supernova](http://chew.tv/futurebounce) doe
 
 ##Other RTMP encoders
 
-While we recommend you use OBS for Chew broadcasts, you can stream to Chew using any RTMP encoder. 
+While [Broadcaster](https://chew.tv/guide/broadcaster) is the recommended software for streaming to the Chew platform, you can stream to Chew using any RTMP encoder. 
 
-You can use [Flash Media Live Encoder](http://www.adobe.com/uk/products/flash-media-encoder.html), [Wirecast](http://www.telestream.net/wirecast/overview.htm) and many more RTMP encoders to stream to Chew. Once you've added your input sources, simply copy and paste your Server URL and Stream Key from Chew into your encoder's stream output settings and Go Live!  
+You can use [Flash Media Live Encoder](http://www.adobe.com/uk/products/flash-media-encoder.html), [mimoLive](https://boinx.com/mimolive), [Wirecast](http://www.telestream.net/wirecast/overview.htm) and many more RTMP encoders to stream to Chew. Once you've added your input sources, simply copy and paste your Server URL and Stream Key from Chew into your encoder's stream output settings and Go Live!  
 
 ##And much, much more
 
-There's so much more you can do to make your streams as awesome as they can be! Why not join [our community Slack channel](http://slack.chew.tv) for feedback, advice or suggestions from the Chew community? 
+There's so much more you can do to make your streams as awesome as they can be! Why not join [the Chew community Slack channel](http://slack.chew.tv) for feedback, advice or suggestions from the Chew community? 
 
-If you have any queries, or want to run something by the Chew support team, feel free tp [drop us an email](mailto:support@chew.tv).
+If you have any queries, or want to run something by the Chew support team, feel free to [drop us an email](mailto:support@chew.tv).
