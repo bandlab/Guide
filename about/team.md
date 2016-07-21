@@ -23,3 +23,16 @@ Sam is a 23 year-old computer science graduate with a love for web-development a
 His love for engineering began in 2006 when he registered his first domain for a PHP-based personal website. Since then, Sam's shifted to technologies like AngularJS, Django, Rails, jQuery in conjunction with Linux, SQL, nginx stacks. As a full-stack developer, Sam's interested in the latest technologies - incorporating them into his projects wherever possible.
 
 Sam joined the Chew team straight out of University (where he graduated with a MEng Computer Science degree within ECS at the University of Southampton), moving to London in the summer of 2015. He's been instrumental in the platform's successes since. Sam spends much of his spare time discovering and exploring (mostly electronic) music. He's a keen DJ and is also experimenting with Logic Pro X in the hope of producing his own music someday soon.
+
+##Andy Puleston
+Prior to joining Chew, Andy was the Digital Editor for Music at the BBC.  He was responsible for the leadership and delivery of the digital elements of the new BBC Music uber-brand including BBC Introducing and the major music events coverage from Glastonbury to Radio 1’s Big Weekend.  He also lead the work to conceive the BBC Music Streaming service, as announced in September 2015.
+
+Before moving to BBC Music, Andy worked at Radio 1 as the head of digital where he was responsible for all of the radio stations' digital platforms including the award winning bbc.co.uk/radio1 and the social media portfolio. 
+
+Andy is a founding member of the BBC Playlister service (which became BBC Music) and was instrumental in its conception and development. He enlisted DJs Zane Lowe, Annie Mac, B Traits, MistaJam, Fearne Cotton and more to help launch the service.  Playlister arrived to critical acclaim and was nominated for a Webby and a Radio Academy Award. 
+
+He also made the transition into programme making for Radio 1 where he was Executive Producer for the station’s specialist shows including Gilles Peterson, Fabio & Grooverider, Annie Nightingale, The Radio 1 Rock Show, Bobby Friction & Nihal and Huw Stephens.
+
+Before joining the BBC Andy worked across the media sector at Disney, Channel 5, MTV and London Records.
+
+Andy also acts as mentor and consultant to a variety of start-ups in the music and retail sectors.
