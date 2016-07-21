@@ -36,4 +36,4 @@ He also made the transition into programme making for Radio 1 where he was Execu
 
 Before joining the BBC, Andy worked across the media sector at Disney, Channel 5, MTV and London Records.
 
-Outisde of Chew, Andy acts as mentor and consultant to a variety of startups in the music and retail sectors.
+Outside Chew, Andy acts as mentor and consultant to a variety of startups in the music and retail sectors.
