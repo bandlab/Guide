@@ -30,7 +30,7 @@ Prior to joining Chew, Andy was the Digital Editor for Music at the BBC. He was 
 
 Before moving to BBC Music, Andy worked at Radio 1 as the Head of Digital where he was responsible for all of the radio station's digital platforms - including the award-winning [bbc.co.uk/radio1](http://bbc.co.uk/radio1) and the social media portfolio. 
 
-Andy is a founding member of the [BBC Playlister](http://www.bbc.co.uk/mediacentre/latestnews/2013/dg-playlister.html) service (which became BBC Music) and was instrumental in its conception and development. He enlisted DJs Zane Lowe, Annie Mac, B Traits, MistaJam, Fearne Cotton and more to help launch the service.  Playlister arrived to critical acclaim and was nominated for both a Webby and a Radio Academy Award. 
+Andy is a founding member of the [BBC Playlister](http://www.bbc.co.uk/mediacentre/latestnews/2013/dg-playlister.html) service (which became BBC Music) and was instrumental in its conception and development. He enlisted DJs Zane Lowe, Annie Mac, Mary-Anne Hobbs, B Traits, MistaJam, Fearne Cotton and more to help launch the service.  Playlister arrived to critical acclaim and was nominated for both a Webby and a Radio Academy Award. 
 
 He also made the transition into programme making for Radio 1 where he was Executive Producer for the station’s specialist shows including Gilles Peterson, Fabio & Grooverider, Annie Nightingale, The Radio 1 Rock Show, Bobby Friction & Nihal and Huw Stephens.
 
