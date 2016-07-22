@@ -10,11 +10,11 @@ Ben met Wil in 2013; having previously been a fan of Wil's music, tech and cultu
 
 ## Wil Benton
 ###Co-Founder & CEO
-Wil moved to London to study Pharmacology at King's College London in 2007. It was there that he started [FatKidOnFire](http://fatkidonfire.com), which earned him the 'Digital Journalist of the Year' title at the 2010 Guardian Student Media Awards. FKOF is now a chart-topping record label, events brand and an award-winning digital publication. 
+Wil moved to London to study Pharmacology at King's College London in 2007. It was there that he started [FatKidOnFire](http://fatkidonfire.com), which earned him the 'Digital Journalist of the Year' title at the 2010 Guardian Student Media Awards. Today, FKOF is a chart-topping record label, events brand and an award-winning digital publication. 
 
 Having been introduced by a mutual friend, Wil started working with Ben Bowler in 2013. The duo went on to start Chew in early 2014. After finishing the Ignite accelerator programme, Wil and Ben launched the platform in early 2015. To date, they've raised two investment rounds, welcomed nearly 30,000 users to Chew and hired an awesome team.
 
-Wil is known for his rather unnecessary trainer collection, enjoys the odd burger, burrito and whiskey while listening to music that frightens his mother. He also finds time to manage a record label and occasionally DJ.
+Wil is known for his rather unnecessary trainer collection, enjoys the odd burger, burrito and whiskey while listening to [music](http://soundcloud.com/fatkidonfire) that frightens his mother. He also finds time to manage a record label and occasionally DJ.
 
 ## Sam Millar
 ###CTO
@@ -28,7 +28,7 @@ Sam joined the Chew team straight out of University (where he graduated with a M
 ###Head of Artist Relations
 Prior to joining Chew, Andy was the Digital Editor for Music at the BBC. He was responsible for the leadership and delivery of the digital elements of the new BBC Music uber-brand; including BBC Introducing and the major music events coverage from Glastonbury to Radio 1’s Big Weekend.  He also lead the work to conceive the BBC Music Streaming service, as announced in [September 2015](http://www.musicbusinessworldwide.com/bbc-takes-on-spotify-and-apple-music-while-helping-them-out/).
 
-Before moving to BBC Music, Andy worked at Radio 1 as the Head of Digital where he was responsible for all of the radio station's digital platforms - including the award winning [bbc.co.uk/radio1](http://bbc.co.uk/radio1) and the social media portfolio. 
+Before moving to BBC Music, Andy worked at Radio 1 as the Head of Digital where he was responsible for all of the radio station's digital platforms - including the award-winning [bbc.co.uk/radio1](http://bbc.co.uk/radio1) and the social media portfolio. 
 
 Andy is a founding member of the [BBC Playlister](http://www.bbc.co.uk/mediacentre/latestnews/2013/dg-playlister.html) service (which became BBC Music) and was instrumental in its conception and development. He enlisted DJs Zane Lowe, Annie Mac, B Traits, MistaJam, Fearne Cotton and more to help launch the service.  Playlister arrived to critical acclaim and was nominated for both a Webby and a Radio Academy Award. 
 
