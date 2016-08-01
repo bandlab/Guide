@@ -235,7 +235,7 @@ By agreeing to these terms, you hereby consent to the immediate performance of t
 
 If you think you have been charged an incorrect amount, please contact us promptly to let us know.
 
-**Contact Details**
+### **Contact Details**
 
 The Chew Service is offered by Chew Live Ltd, a limited liability company. We are incorporated under the laws of England and Wales with registered number 09260256 and our registered address is 86-90 Paul Street, London, EC2A 4NE. 
 
