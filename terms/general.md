@@ -231,7 +231,9 @@ As part of the Chew Service, we provide digital content which may be purchased f
 
 We accept payment using Stripe and do not store any payment details on the Chew platform (visit [https://stripe.com/gb/legal](https://stripe.com/gb/legal) to view their own Terms of Use). 
 
-By agreeing to these terms, you hereby consent to the immediate performance of the contract (created by your payment) and acknowledge that you will lose any right of withdrawal from the contract once the gifting of the digital content has begun.
+By agreeing to these terms, you hereby consent to the immediate performance of the contract (created by your payment) and acknowledge that you will lose any right of withdrawal from the contract once the gifting of the digital content has begun. 
+
+By clicking accept during your gifting transactions, you agree that you understand and accept that you will lose any right of withdrawal from the purchase of your digital item once the gifting process has completed.
 
 If you think you have been charged an incorrect amount, please contact us promptly to let us know.
 
