@@ -1,6 +1,6 @@
 ## Chew Terms of Use
 
-Last Updated: March 2015
+Last Updated: August 2016
 
 ### 1. General
 
@@ -221,9 +221,19 @@ Upon termination of these Terms, any provision which, by its nature or express t
 
 The parties specifically disavow any desire or intention to created a "third party" beneficiary contract, and specifically declare that no person, except for the parties and their permitted assigns, shall have any rights hereunder nor any right of enforcement hereof.
 
-### **24. Third Party Advertising.**
+### **23. Third Party Advertising.**
 
 No person, except for the parties and their permitted assigns, shall have any rights under these Terms nor any right of enforcement of these Terms.
+
+### **24. Payments
+
+As part of the Chew Service, we provide digital content which may be purchased for use on our site. The price of the product (which includes VAT) will be the price shown on the site itself.
+
+We accept payment using Stripe and do not store any payment details on the Chew platform (visit [https://stripe.com/gb/legal](https://stripe.com/gb/legal) to view their own Terms of Use). 
+
+By agreeing to these terms, you hereby consent to the immediate performance of the contract (created by your payment) and acknowledge that you will lose any right of withdrawal from the contract once the gifting of the digital content has begun.
+
+If you think you have been charged an incorrect amount, please contact us promptly to let us know.
 
 **Contact Details**
 
