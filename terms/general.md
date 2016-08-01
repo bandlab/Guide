@@ -233,7 +233,7 @@ We accept payment using Stripe and do not store any payment details on the Chew 
 
 By agreeing to these terms, you hereby consent to the immediate performance of the contract (created by your payment) and acknowledge that you will lose any right of withdrawal from the contract once the gifting of the digital content has begun. 
 
-By clicking accept during your gifting transactions, you agree that you understand and accept that you will lose any right of withdrawal from the purchase of your digital item once the gifting process has completed.
+By confirming your purchase during the gifting transactions, you agree that you understand and accept that you will lose any right of withdrawal from the purchase of your digital item once the gifting process has completed.
 
 If you think you have been charged an incorrect amount, please contact us promptly to let us know.
 
