@@ -221,11 +221,11 @@ Upon termination of these Terms, any provision which, by its nature or express t
 
 The parties specifically disavow any desire or intention to created a "third party" beneficiary contract, and specifically declare that no person, except for the parties and their permitted assigns, shall have any rights hereunder nor any right of enforcement hereof.
 
-### **23. Third Party Advertising.**
+### **23. Third Party Advertising**
 
 No person, except for the parties and their permitted assigns, shall have any rights under these Terms nor any right of enforcement of these Terms.
 
-### **24. Payments
+### **24. Payments**
 
 As part of the Chew Service, we provide digital content which may be purchased for use on our site. The price of the product (which includes VAT) will be the price shown on the site itself.
 
