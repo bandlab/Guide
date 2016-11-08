@@ -1,4 +1,4 @@
-##Chew Terms of Use and Privacy Policy
+##Chew Terms of Use, Copyright Infringement Notification and Privacy Policy
 
 ### [Chew Terms of Use](http://chew.tv/guide/terms/general)
 
