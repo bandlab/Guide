@@ -1,8 +1,4 @@
-## Chew Terms of Use
-
-Last Updated: August 2016
-
-### **Copyright infringement notification**
+## **Copyright infringement notification**
 
 If you are a copyright owner or an agent of a copyright owner (the “**Copyright Owner**”) and believe that any content on the Chew Service infringes your copyrights, you may submit a ‘takedown’ request. This notification of claimed infringement must be a written communication provided to the designated agent of Chew that includes the following information:
 
@@ -21,9 +17,9 @@ Email address: takedown@chew.tv
 
 Only takedown requests should go to the designated copyright agent; any other comments, requests, or other communications should be directed to Chew customer services at [support@chew.tv](mailto:support@chew.tv). Any notification of claimed infringement that does not comply with the takedown request’s requirements may be invalid.
 
-If you receive notice from Chew that your content has been taken down pursuant to a notification of alleged infringement and believe that this takedown is improper or incorrect, you may provide Chew with a counter notification. To be valid, a counter notification must be a written communication provided to Chew’s designated agent as mentioned above that includes substantially the following:
+If you receive notice from Chew that your content has been taken down pursuant to a notification of alleged infringement and believe that this takedown is improper or incorrect, you may provide Chew with a counter notification. To be valid, a counter notification must be a written communication provided to Chew’s designated agent as mentioned above that includes  the following:
 
-1. your physical or electronic signature.
-2. identification of the material that has been removed or to which access has been disabled and the location at which the material appeared before it was removed or access to it was disabled.
-3. a statement under penalty of perjury that you have a good faith belief that the material was removed or disabled as a result of mistake or misidentification of the material to be removed or disabled.
-4. your name, address, and telephone number, and a statement that you consent to the jurisdiction of the judicial district in which your address is located, or if your address is outside of the United Kingdom, the jurisdiction of the English courts, and that you will accept service of process from the Copyright Owner who provided notification as mentioned in section 6.1 or an agent of such person.
+1. your physical or electronic signature,
+2. identification of the material that has been removed or to which access has been disabled and the location at which the material appeared before it was removed or access to it was disabled,
+3. a statement under penalty of perjury that you have a good faith belief that the material was removed or disabled as a result of mistake or misidentification of the material to be removed or disabled,
+4. your name, address, and telephone number, and a statement that you consent to the jurisdiction of the judicial district in which your address is located, or if your address is outside of the United Kingdom, the jurisdiction of the English courts, and that you will accept service of process from the Copyright Owner who provided notification as mentioned above or an agent of such person.
