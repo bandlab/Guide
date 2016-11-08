@@ -1,4 +1,4 @@
-##Chew Terms of Use, Copyright Infringement Notification and Privacy Policy
+##Chew Terms of Use, Copyright Infringement and Privacy Policy
 
 ### [Chew Terms of Use](http://chew.tv/guide/terms/general)
 
@@ -6,7 +6,7 @@ The following Terms of Use (the “**Terms**”) between you (“you” and “y
 
 [Read more](http://chew.tv/guide/terms/general).
 
-### [Copyright infringement notification](http://chew.tv/guide/terms/copyright)
+### [Copyright Infringement](http://chew.tv/guide/terms/copyright)
 
 If you are a copyright owner or an agent of a copyright owner (the “Copyright Owner”) and believe that any content on the Chew Service infringes your copyrights, you may submit a ‘takedown’ request.
 
