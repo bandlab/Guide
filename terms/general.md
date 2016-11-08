@@ -109,7 +109,7 @@ If you receive notice from Chew that your content has been taken down pursuant t
 1. your physical or electronic signature.
 2. identification of the material that has been removed or to which access has been disabled and the location at which the material appeared before it was removed or access to it was disabled.
 3. a statement under penalty of perjury that you have a good faith belief that the material was removed or disabled as a result of mistake or misidentification of the material to be removed or disabled.
-4. your name, address, and telephone number, and a statement that you consent to the jurisdiction of the judicial district in which your address is located, or if your address is outside of the United Kingdom, the jurisdiction of the English courts, and that you will accept service of process from the Copyright Owner who provided notification as mentioned in section 6.1 or an agent of such person.
+4. your name, address, and telephone number, and a statement that you consent to the jurisdiction of the judicial district in which your address is located, or if your address is outside of the United Kingdom, the jurisdiction of the English courts, and that you will accept service of process from the Copyright Owner who provided notification as mentioned in section 5.1 or an agent of such person.
 
 ### **6. Registration, Accounts and Passwords**
 
