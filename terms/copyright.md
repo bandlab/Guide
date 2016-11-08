@@ -1,4 +1,4 @@
-## **Copyright infringement notification**
+## Copyright infringement notification
 
 If you are a copyright owner or an agent of a copyright owner (the “**Copyright Owner**”) and believe that any content on the Chew Service infringes your copyrights, you may submit a ‘takedown’ request. This notification of claimed infringement must be a written communication provided to the designated agent of Chew that includes the following information:
 
