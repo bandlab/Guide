@@ -30,7 +30,7 @@ Alex is a 22 year old Business Management graduate and techno enthusiast. When h
 
 During his university degree, Alex launched his own clothing company - a decision which sparked his passion for marketing and all things creative. After spotting an opening to join the Chew team, Alex knew it was something he had to get involved in: the role combined his marketing expertise with his love for both music and DJing.
 
-Outside of music, Alex has a great love for roast chicken sandwiches, all things Romanian and Nina Kraviz. You can catch him DJing weekly on [Chew](https://chew.tv/alex-cirino); experimenting with deep and dark sounds and playing his latest vinyl pickups.
+Outside of music, Alex has a great love for roast chicken sandwiches, all things Romanian and Nina Kraviz. You can catch him DJing weekly [on Chew](https://chew.tv/alex-cirino); experimenting with deep and dark sounds and playing his latest vinyl pickups.
 
 ## Ben Bowler
 ###Co-Founder & Advisor
