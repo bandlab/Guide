@@ -4,7 +4,7 @@
 ###Co-Founder & CEO
 Wil moved to London to study Pharmacology at King's College London in 2007. It was there that he started [FatKidOnFire](http://fatkidonfire.com), which earned him the 'Digital Journalist of the Year' title at the 2010 Guardian Student Media Awards. Today, FKOF is a chart-topping record label, events brand and an award-winning digital publication. 
 
-Having been introduced by a mutual friend, Wil started working with Ben Bowler in 2013. The duo went on to start Chew in early 2014. After finishing the Ignite accelerator programme, Wil and Ben launched the platform in early 2015. To date, they've raised two investment rounds, welcomed nearly 30,000 users to Chew and hired an awesome team.
+Having been introduced by a mutual friend, Wil started working with [Ben Bowler](http://benbowler.com) in 2013. The duo went on to start Chew in early 2014. Towards the end of their time on the [Ignite](http://ignite.io) accelerator programme, Wil and Ben launched Chew publicly in early 2015. The business has sinced raised two rounds of investment, acquired a competitor, welcomed nearly 400,000 users to the platform and become an awesome team.
 
 Wil is known for his rather unnecessary trainer collection, enjoys the odd burger, burrito and whiskey while listening to [music](http://soundcloud.com/fatkidonfire) that frightens his mother. He also finds time to manage a record label and occasionally DJ.
 
