@@ -9,9 +9,9 @@ We're a small [team](https://chew.tv/guide/about/team) based in London. We're am
 ## Fun facts
 - Users: 370,000+
 - Shows created: 90,000+
-- Chat messages shared: 660,000+
-- Number of hours of content broadcast: 50,000+
-- Number of hours of content watched: 370,000+
+- Chat messages shared: 700,000+
+- Number of hours of content broadcast: 60,000+
+- Number of hours of content watched: 380,000+
 
 ## Help and Support
 
