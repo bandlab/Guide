@@ -1,7 +1,7 @@
 ##Gifting
 
 ###What is Gifting?
-Gifting allows your fans to support your shows on Chew. 
+[Gifting](https://chew.tv/gifting) allows your fans to support your shows on Chew. 
 Chew's vision is to connect the world's DJs, music producers and personalities with a global audience. We feel helping our users generate income is an important part of that vision!
 
 We are testing gifting with a small group of users and, pending feedback, will roll the feature out to all of our users over the coming months.
