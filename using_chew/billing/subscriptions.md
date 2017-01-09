@@ -28,6 +28,7 @@ Subscriptions are £9.99 ('Plus' tier) and £49.99 ('Pro' tier) per month. We al
 - Only saved shows count towards your PAYG storage bill
 - Shows must be explicitly saved by you in your [show management page](https://chew.tv/account/shows) in order to become chargeable (this storage will not be charged until a show has exceeded its free retention period, if applicable)
 - Saved shows can be unsaved at any time from the same show management page and removed from your PAYG storage bill
+- If you unsave a saved show part-way through a monthly billing cycle, or downgrade from PAYG storage, you will still need to pay the PAYG storage costs associated at the end of the next monthly billing cycle
 - You can unsubscribe or downgrade your subscription at any time from the billing dashboard (please note you will lose your saved shows if you downgrade to a free user — but you are still able to [download them](https://chew.tv/channel/downloads))
 - If you downgrade, you will not be refunded for any charged advanced payment. However, this balance (pro-rated from the amount of the billing cycle remaining) will remain on your account and will be used by any future subscription invoices (if applicable)
 - Payments are handled by secure payment provider [Stripe](https://stripe.com/about)
@@ -36,4 +37,4 @@ Subscriptions are £9.99 ('Plus' tier) and £49.99 ('Pro' tier) per month. We al
 ###How do I get started?
 Sign up for PAYG storage and or a subscription [here](https://chew.tv/account/billing).
 
-If you have any queries about subscriptions or PAYG storage, please get in touch via email on [subs@chew.tv](mailto:subs@chew.tv) or via [Slack](https://slack.chew.tv) (look for the **#subscriptions** channel)!
+If you have any queries about subscriptions or PAYG storage, please get in touch via email on [subs@chew.tv](mailto:subs@chew.tv) or via [Slack](https://slack.chew.tv) (look for the **#Subscriptions** channel)!
