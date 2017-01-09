@@ -1,4 +1,4 @@
-##Subscriptions
+#Subscriptions
 
 As a subscribing Chew user, you have access to a range of awseome features if you subscribe to one of [our subscription tiers](https:/chew.tv/account/billing). You can find an overview of the awesome features we're building for subscribing users [here](https://trello.com/b/UcS0N2fx/chew-subs-roadmap).
 
