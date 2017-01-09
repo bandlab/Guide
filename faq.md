@@ -14,11 +14,11 @@ On Chew, we see live streaming as being the broadcast of live video and audio co
 
 ## How much does Chew cost?
 
-Chew is free to use and free to view! 
+For users who want to broadcast unlimited live content, Chew is free to use. Chew is also 100% free to view! We offer a range of advanced features to our [subscribing users](http://chew.tv/guide/using_chew/billing/subscriptions).
 
 ## Can I watch Chew streams on a mobile device?
 
-Chew is built to work with any up-to-date browser, on any device, anywhere. You can watch streams on desktop devices (with our Flash-based player) or on mobile devices (using our mobile-friendly player).
+Chew is built to work with any up-to-date browser, on any device, anywhere. You can watch streams on desktop devices (with our HTML5-based player) or on mobile devices (using our mobile-friendly player).
 
 Please keep your browser and software updated to the latest version for the smoothest viewing experience! 
 
@@ -26,7 +26,7 @@ Please keep your browser and software updated to the latest version for the smoo
 
 Don't worry, we've got you covered! You can find a quick walkthrough of the tricks we've used [here](http://chew.tv/guide/using_chew/building_your_audience_on_chew).
 
-##What formats can I broadcast on Chew?
+## What formats can I broadcast on Chew?
 
 Regardless of the encoder you're using, please make sure you broadcast video in H.264 and at a framerate of 30fps or less. Please also make sure you stream AAC audio!
 
@@ -40,7 +40,7 @@ Chew is unlike many other live streaming platforms, as we're built with rightsho
 
 We do, however, take a very dim view of users going out of their way to violate applicable laws. Chew will terminate any account found to be actively breaching applicable laws. 
 
-Please see the [Chew Terms](http://chew.tv/guide/terms/getting_started) for more.
+Please see the [Chew Terms](http://chew.tv/guide/terms/getting_started) for more info.
 
 ## How many cameras should I use for my stream?
 
@@ -50,7 +50,7 @@ Generally, the number of cameras you can stream from is limited by the encoder y
 
 ## What encoder should I use?
 
-Chew is built to work with most RTMP encoders. We recommend you use [OBS](http://chew.tv/guide/encoder_setup/getting_started) - but you can also use Flash Media Live Encoder, Wirecast and more.
+Chew is built to work with most RTMP encoders. We recommend you use [Broadcaster](http://chew.tv/guide/broadcaster) - but you can also use [OBS](https://chew.tv/guide/encoder_setup/getting_started), Flash Media Live Encoder, Wirecast and more.
 
 ## What type of connection should I use to stream?
 
