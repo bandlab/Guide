@@ -14,7 +14,7 @@ On Chew, we see live streaming as being the broadcast of live video and audio co
 
 ## How much does Chew cost?
 
-For users who want to broadcast unlimited live content, Chew is free to use. Chew is also 100% free to view! We offer a range of advanced features to our [subscribing users](http://chew.tv/guide/using_chew/billing/subscriptions).
+For users who want to broadcast unlimited live content, Chew is free. Chew is also 100% free to view! We also offer a range of advanced features to our [subscribing users](http://chew.tv/guide/using_chew/billing/subscriptions).
 
 ## Can I watch Chew streams on a mobile device?
 
