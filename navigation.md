@@ -8,6 +8,7 @@
 
 # [Using Chew](guide/using_chew/getting_started)
 ## [Your Account](guide/using_chew/chew_account)
+## [Billing](guide/using_chew/billing/getting_started)
 ## [Create a show and Go Live](guide/using_chew/go_live_on_chew)
 ## [Sharing the Watch page](guide/using_chew/sharing_the_watch_page)
 ## [Embedding the Chew player](guide/using_chew/embedding_the_chew_player)
