@@ -24,7 +24,7 @@ Subscriptions are £9.99 ('Plus' tier) and £49.99 ('Pro' tier) per month. We al
 - Your subscription will be renewed and payment will be taken automatically at the end of every billing cycle (monthly from the date of your subscription)
 - Payment will be taken on the same calendar day each month (unless you change your subscription)
 - PAYG storage costs will be billed in arrears for the previous payment period's usage
-- The £0.01 monthly cost listed on [the billing page](https://chew.tv/account/billing) charged to check against an active card and allow us to store your payment details on file while we calculate your monthly PAYG storage costs. At the end of your monthly billing cycle, we calculate your PAYG storage bill and deduct the £0.01 against your final monthly bill
+- The £0.01 monthly cost listed on [the billing page](https://chew.tv/account/billing) is charged to check against an active card and allow us to store your payment details on file, while we calculate your monthly PAYG storage costs. At the end of your monthly billing cycle, we calculate your PAYG storage bill and deduct the £0.01 against your final monthly bill
 - Only saved shows count towards your PAYG storage bill
 - Shows must be explicitly saved by you in your [show management page](https://chew.tv/account/shows) in order to become chargeable (this storage will not be charged until a show has exceeded its free retention period, if applicable)
 - Saved shows can be unsaved at any time from the same show management page and removed from your PAYG storage bill
@@ -32,7 +32,7 @@ Subscriptions are £9.99 ('Plus' tier) and £49.99 ('Pro' tier) per month. We al
 - You can unsubscribe or downgrade your subscription at any time from the billing dashboard (please note you will lose your saved shows if you downgrade to a free user — but you are still able to [download them](https://chew.tv/channel/downloads))
 - If you downgrade, you will not be refunded for any charged advanced payment. However, this balance (pro-rated from the amount of the billing cycle remaining) will remain on your account and will be used by any future subscription invoices (if applicable)
 - Payments are handled by secure payment provider [Stripe](https://stripe.com/about)
-- We will be adding support for other payment provuders (including PayPal) in the future.
+- We will be adding support for other payment providers (including PayPal) in the future.
 
 ##How do I get started?
 Sign up for PAYG storage and or a subscription [here](https://chew.tv/account/billing).
