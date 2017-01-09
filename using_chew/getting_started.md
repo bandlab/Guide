@@ -8,6 +8,10 @@ If you have any questions [email Support](mailto:support@chew.tv) or [join our c
 
 You'll need to [register](http://chew.tv/register) for a Chew account before you can stream your first show. If you have registered for a Chew account, simply [login](http://chew.tv/login) to access your account. This section explains what happens next! 
 
+## [Billing](http://chew.tv/guide/using_chew/billing/getting_started)
+
+Chew offers a range of features to [subscribing](http://chew.tv/guide/using_chew/billing/subscriptions) users and also allows you to earn real money with [Gifting](http://chew.tv/guide/using_chew/billing/gifting). Find out how!  
+
 ## [Creating a show](http://chew.tv/guide/using_chew/go_live_on_chew)
 
 The core of the Chew platform is based around shows. Think of a show on Chew like a single DJ set or production session. Use this section of the guide to discover how easy it is to create, broadcast and experience a show on Chew!
