@@ -16,16 +16,16 @@ The gifts you receive will be visible on your channel, as well as on other place
 ###How much money will I earn?
 When a user buys you a gift, you will receive all of the money generated from the sale, minus a card transaction fee. The card transaction fee is 2.9% of the gift's value + 30p/30¢ per successful charge.
 
-###How do I get started?
-To receive your Gifting earnings, you must create and connect your Chew account to a Stripe account. Currently, to receive gifts, you'll need to be in one of the [25 countries Stripe currently operates in](https://stripe.com/global).
+###How do I receive my earnings?
+To receive your Gifting earnings, you must create and connect your Chew account to a Stripe account. Currently, to receive gifts, you'll also need to be in one of the [25 countries Stripe currently operates in](https://stripe.com/global). We will be adding Paypal integration (as well as potentially other payment providers) in the future.
 
-You can create a Stripe account (it's free!) but you’ll need some details handy, including:
+To create a Stripe account (it's free!), you’ll need some details handy, including:
 
 - Your bank's account number & sort code
 - Your home address
 - Your phone number.
 
-###How do I get started?
+##How do I get started?
 Sign up for a Stripe account and get started with Chew Gifting [here](https://chew.tv/account/payments).
 
 If you have any queries about Gifting or setting up with Stripe, please get in touch via email on [support@chew.tv](mailto:support@chew.tv) or via [Slack](https://slack.chew.tv) (look for the **#Gifting** channel)!
