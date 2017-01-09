@@ -33,4 +33,7 @@ Subscriptions are £9.99 ('Plus' tier) and £49.99 ('Pro' tier) per month. We al
 - Payments are handled by secure payment provider [Stripe](https://stripe.com/about)
 - We will be adding support for other payment provuders (including PayPal) in the future.
 
-If you are uncertain about anything please get in touch via email to [subs@chew.tv](mailto:subs@chew.tv) or on [Slack](https://slack.chew.tv) (look for the #subscriptions channel)!
+###How do I get started?
+Sign up for PAYG storage and or a subscription [here](https://chew.tv/account/billing).
+
+If you have any queries about subscriptions or PAYG storage, please get in touch via email to [subs@chew.tv](mailto:subs@chew.tv) or on [Slack](https://slack.chew.tv) (look for the **#subscriptions** channel)!
