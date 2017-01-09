@@ -27,3 +27,5 @@ You can create a Stripe account (it's free!) but you’ll need some details hand
 
 ###How do I get started?
 Sign up for a Stripe account and get started with Chew Gifting [here](https://chew.tv/account/payments).
+
+If you have any queries about Gifting or setting up with Stripe, please get in touch via email on [support@chew.tv](mailto:support@chew.tv) or via [Slack](https://slack.chew.tv) (look for the **#Gifting** channel)!
