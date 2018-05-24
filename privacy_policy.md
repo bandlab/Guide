@@ -1,7 +1,7 @@
 ##Chew Privacy Policy
-Last Updated: March 2015
+Last Updated: May 2018
 
-Chew understands that privacy is important. This Privacy Policy applies to any and all services, applications, platforms, websites, or other affiliated ventures offered by Chew and sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  
+Chew understands that privacy is important. This Privacy Policy applies to any and all services, applications, platforms, websites, or other affiliated ventures offered by Chew and sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.
 
 Chew Live Ltd (“**Chew**”, “**us**”, “**we**” and “**our**”) offers the Chew Service and we are the data controller of the personal data you provide to us or we have access to. Chew Live Ltd is a limited liability company. We are incorporated under the laws of England and Wales with registered number 09260256 and our registered address is 86-90 Paul Street, London, EC2A 4NE.
 
@@ -9,17 +9,17 @@ By using the Chew Service, you are expressly accepting and consenting to the pra
 
 The Chew Service may include and link to features and services (such as social applications like Twitter and Facebook) that are provided by a third party. If you use these features and services, please understand that the third parties that operate them may collect information from you which will be used in accordance with their own privacy policy and terms of use, which may differ from ours. We do not accept any responsibility or liability for these policies or for any personal data that may be collected through these websites or services. You should always read the privacy policy of any feature or service you access carefully in order to understand the specific privacy and information usage practices.
 
-### 1. The Information Chew Collects: 
+### 1. The Information Chew Collects:
 
 **Information You Provide**
 
-You may provide to Chew what is generally called "personally identifiable" information (such as your name, email address, photograph, video footage of you, credit card number, postal mailing address, and telephone numbers) if you use certain services or products from the Chew Service, or otherwise use the features and functionality of the Chew Service. 
+You may provide to Chew what is generally called "personally identifiable" information (such as your name, email address, photograph, video footage of you, credit card number, postal mailing address, and telephone numbers) if you use certain services or products from the Chew Service, or otherwise use the features and functionality of the Chew Service.
 
 To access certain functions of the Chew Service, you may need to register with us via your valid Facebook account or Twitter account. We may receive further personally identifiable information from Facebook or Twitter when you link your Facebook or Twitter account to your Chew account, such as your name, gender, locale, and other information in your public profile. You can manage the disclosure of this information through your Facebook or Twitter account. You agree to comply with all Facebook and Twitter terms of use and privacy policies when accessing Chew through your Facebook or Twitter account.
 
 You may give us information about you by filling in forms on the Chew Service or by corresponding with us. This includes information you provide when you register to use the Chew Service, subscribe to the Chew Service, upload or share Produced Content, access and view other Produced Content or other Material on the Chew Service and when you report a problem with the Chew Service.
 
-Please note that we are not responsible for the information you share with others when using the Chew Service or uploading Produced Content. Remember that the Chew Service is a publicly-accessible platform and so do not upload or share any information about yourself which you do not want to be publicly accessible. 
+Please note that we are not responsible for the information you share with others when using the Chew Service or uploading Produced Content. Remember that the Chew Service is a publicly-accessible platform and so do not upload or share any information about yourself which you do not want to be publicly accessible.
 
 When you upload or share Produced Content that features or includes another person, or when you provide information about other people, you are solely responsible for obtaining their prior consent for you to do so and for telling them that we may use such content and any personal information about them which you provide in accordance with this Privacy Policy.
 "Automatically Collected" Information: When you access the Chew Service (including through your computer or your mobile device) or open one of our HTML emails, we may automatically record certain information from your system by using different types of tracking technology. This "automatically collected" information may include Internet Protocol address ("IP Address"), a unique user ID, version of software installed, system type, the content and pages that you access on the Chew Service, and the dates and times that you visit the Chew Service.
@@ -32,7 +32,7 @@ We are also working closely with third parties (including, for example, business
 
 When you access the Chew Service, we may send one or more cookies (small text files containing a string of alphanumeric characters) to your computer. Our Service uses cookies to distinguish you from other users of our Service. Cookies do this by storing information about your preferences on your device, including the device model, manufacturer, screen resolution, device capabilities, service provider, country and city location data. This helps us to provide you with a good experience when you use and interact with our Service and also allows us to improve the Service. By using our Chew Service you accept the use of cookies in accordance with this Privacy Policy.
 
-Chew may use both session cookies and persistent cookies.  
+Chew may use both session cookies and persistent cookies.
 
 A session cookie disappears after you close your browser.  A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Chew Service.  Persistent cookies can be removed.  Please review your web browser "Help" file to learn the best way to modify your cookie settings.
 
@@ -46,7 +46,7 @@ Your User ID is displayed throughout the Chew Service and is therefore available
 
 ### 2. The Way Chew Uses Information:
 
-Chew uses the information that you provide or that we collect to operate, maintain, enhance, and provide all of the features and services found on the Chew Service - as well as to track user-generated content and users to the extent necessary to comply as a service provider with applicable laws. We also use your information in order to validate you as a registered user, tell you about changes to the services we provide or changes to our Terms of Use and Privacy Policy, to deliver the Chew Service to you, to allow you to upload, share, stream and store Produced Content, to moderate your account and your Produced Content, to detect and prevent criminal or infringing activity, and to comply with applicable laws. 
+Chew uses the information that you provide or that we collect to operate, maintain, enhance, and provide all of the features and services found on the Chew Service - as well as to track user-generated content and users to the extent necessary to comply as a service provider with applicable laws. We also use your information in order to validate you as a registered user, tell you about changes to the services we provide or changes to our Terms of Use and Privacy Policy, to deliver the Chew Service to you, to allow you to upload, share, stream and store Produced Content, to moderate your account and your Produced Content, to detect and prevent criminal or infringing activity, and to comply with applicable laws.
 
 We may use your email address or mobile number, without further consent, for administrative communications such as notifying you of Chew Service updates, for customer service purposes, and to send privacy or security related notices.
 
@@ -96,7 +96,7 @@ If you are the parent or legal guardian of a child under 13 who has become a Che
 
 For users visiting the Chew Service from outside the European Economic Area (“**EEA**”), please note that any data you enter into, upload to, make available or share via the Chew Service will be transferred into, and stored within, a destination within the EEA for use by Chew and its affiliates for any of the purposes described in this Privacy Policy. In addition, because Chew operates globally, we may make information we gather available to worldwide business units and affiliates. By providing any data on the Chew Service, you hereby expressly consent to such transfers of your data to the United Kingdom or other countries.
 
-For users using the Chew Service from within the EEA, you understand and accept that the data that we collect from you may be transferred to, and stored at, a destination outside the EEA. It may also be processed by our service providers and staff operating outside the EEA. By submitting your personal data, you agree to this transfer, storing or processing outside of the EEA. 
+For users using the Chew Service from within the EEA, you understand and accept that the data that we collect from you may be transferred to, and stored at, a destination outside the EEA. It may also be processed by our service providers and staff operating outside the EEA. By submitting your personal data, you agree to this transfer, storing or processing outside of the EEA.
 
 Not all countries provide the same level of data protection as the United Kingdom. However, we do take steps to put in place arrangements with our service providers outside of the United Kingdom to ensure that your personal information is protected in accordance with this Privacy Policy.
 
@@ -108,13 +108,43 @@ In the event that Chew is acquired by or merged with a third-party entity, we re
 
 Except as otherwise expressly provided otherwise, this document addresses only the use and disclosure of information we collect from you or that you disclose to us. If you disclose your information to others besides Chew, whether they are users of the Chew Service or on other sites or services, different rules may apply to their use or disclosure of the information you disclose to them.  Chew does not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable. We encourage you to ask questions before you disclose your personal information to others.
 
-### 11. Changes and Updates to this Privacy Policy:
+### 11. Contacting us about your Information
+
+11.1. If you have any questions or feedback regarding this Privacy Policy, you may contact our Data Protection Officer:
+- Ivan Chen
+- privacy@bandlab.com
+
+11.2. If you (i) wish to update or correct your Information, (ii) wish to request for information from us on what Information of yours we have and how we have used and shared your Information during the last one year before the date of your request, (iii) wish to restrict or withdraw your consent to our processing of your Information, (iv) wish us to delete your Information, or (v) have any concerns, feedback or complaints about the use and/or sharing of your Information, please contact our Data Protection Officer in writing via email to privacy@bandlab.com.
+
+11.3. If you are a resident of the European Union using the Services, you have the following rights under the General Data Protection Regulations:
+
+a) Right to be informed: This right means that when we ask you to provide us with your Information, we will give you details like: what we are using it for, how and who it will be shared with, and how you may contact us if you have any questions;
+
+b) Right to access: This right allows you to ask us for details of the Information we hold on you, e.g. what Information is being processed and for what reason, what Information is being transferred and to whom, what rights you have etc;
+
+c) Right to rectification: This right allows you to ask us to correct anything that you think is wrong with the Information we have on file about you;
+
+d) Right to erasure also known as the "right to be forgotten”: This right means you can ask us to delete your Information from our system;
+
+e) Right to restrict processing: This right allows you to ask us to only process your Information for those certain purposes that you specify;
+
+f) Right to data portability: This is the right to ask us to send you your Information electronically. You may also ask us to transmit such Information to another party;
+
+g) Right to object: This is your right to tell us to stop processing your Information;
+
+h) Right not to be subject to automatic decision-making, including profiling: We sometimes use computers to study and analyse Information. We might do this so we can understand how you, and other visitors, are using the Services. This allows us to improve the Services for better customer experience e.g. by providing personalised Content and marketing to you. For situations that may significantly impact you, you have the right to ask us not to do this; and
+
+i) Right to complain, right to judicial remedy: In the event that you feel your rights are breached, these rights allows you to make a complaint to the relevant authorities or to sue us in court.
+
+11.4. EU residents may exercise their rights above by writing to our Data Protection Officer at privacy@bandlab.com. The parent or guardian of a User resident in the EU under the age of 13 years old can request this on behalf of their child.
+
+### 12. Changes and Updates to this Privacy Policy:
 
 This Privacy Policy may be revised periodically without further notice to you and this will be reflected by the "LAST UPDATED" date found at the top of this page. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Policy in effect when we received that personal information. Your continued use of the Chew Service constitutes your agreement to this Privacy Policy and any future revisions.
 
 For revisions to this Privacy Policy that may be materially less restrictive on our use or disclosure of personal information you have provided to us, we will make reasonable efforts to notify you and obtain your consent before implementing revisions with respect to such information.
 
-### 12. Chew Contact Information:
+### 13. Chew Contact Information:
 
 Please contact Chew with any questions or comments about this Privacy Policy, our third-party disclosure practices, or your consent choices by emailing support@chew.tv. We will endeavour to respond to your inquiry within thirty (30) business days of its receipt.
 
