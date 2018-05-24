@@ -138,7 +138,7 @@ h) Right not to be subject to automatic decision-making, including profiling: We
 
 i) Right to complain, right to judicial remedy: In the event that you feel your rights are breached, these rights allows you to make a complaint to the relevant authorities or to sue us in court.
 
-11.4. EU residents may exercise their rights above by writing to our Data Protection Officer at privacy@bandlab.com. The parent or guardian of a User resident in the EU under the age of 13 years old can request this on behalf of their child.
+11.4. EU residents may exercise their rights above by writing to our Data Protection Officer at [privacy@bandlab.com](mailto:privacy@bandlab.com). The parent or guardian of a User resident in the EU under the age of 13 years old can request this on behalf of their child.
 
 ### 12. Changes and Updates to this Privacy Policy:
 
