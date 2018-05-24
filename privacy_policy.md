@@ -111,8 +111,10 @@ Except as otherwise expressly provided otherwise, this document addresses only t
 ### 11. Contacting us about your Information
 
 11.1. If you have any questions or feedback regarding this Privacy Policy, you may contact our Data Protection Officer:
+
 - Ivan Chen
-- privacy@bandlab.com
+
+- [privacy@bandlab.com](mailto:privacy@bandlab.com)
 
 11.2. If you (i) wish to update or correct your Information, (ii) wish to request for information from us on what Information of yours we have and how we have used and shared your Information during the last one year before the date of your request, (iii) wish to restrict or withdraw your consent to our processing of your Information, (iv) wish us to delete your Information, or (v) have any concerns, feedback or complaints about the use and/or sharing of your Information, please contact our Data Protection Officer in writing via email to privacy@bandlab.com.
 
