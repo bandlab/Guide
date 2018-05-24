@@ -124,7 +124,7 @@ a) Right to be informed: This right means that when we ask you to provide us wit
 
 b) Right to access: This right allows you to ask us for details of the Information we hold on you, e.g. what Information is being processed and for what reason, what Information is being transferred and to whom, what rights you have etc;
 
-c) Right to rectification: This right allows you to ask us to correct anything that you think is wrong with the Information we have on file about you;
+c) Right to rectification: This right allows you to ask us to correct anything that you think is wrong with the Information we have about you;
 
 d) Right to erasure also known as the "right to be forgotten”: This right means you can ask us to delete your Information from our system;
 
@@ -136,7 +136,7 @@ g) Right to object: This is your right to tell us to stop processing your Inform
 
 h) Right not to be subject to automatic decision-making, including profiling: We sometimes use computers to study and analyse Information. We might do this so we can understand how you, and other visitors, are using the Services. This allows us to improve the Services for better customer experience e.g. by providing personalised Content and marketing to you. For situations that may significantly impact you, you have the right to ask us not to do this; and
 
-i) Right to complain, right to judicial remedy: In the event that you feel your rights are breached, these rights allows you to make a complaint to the relevant authorities or to sue us in court.
+i) Right to complain, right to judicial remedy: If you feel your rights are breached, these rights allow you to make a complaint to the relevant authorities or to sue us in court.
 
 11.4. EU residents may exercise their rights above by writing to our Data Protection Officer at [privacy@bandlab.com](mailto:privacy@bandlab.com). The parent or guardian of a User resident in the EU under the age of 13 years old can request this on behalf of their child.
 
